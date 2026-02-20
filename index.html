@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FluxIA - Ofertas Premium em Compras Online</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@600;700;800&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #1a1f35;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e8eef5 50%, #f0f4fa 100%);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(20px);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .header-logo img {
+            height: 40px;
+            width: auto;
+            transition: transform 0.3s ease;
+        }
+
+        .header-logo img:hover {
+            transform: scale(1.05);
+        }
+
+        .header-logo-text {
+            font-size: 1.3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            letter-spacing: -0.5px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        nav {
+            display: flex;
+            gap: 2.5rem;
+            align-items: center;
+        }
+
+        nav a {
+            color: #1a1f35;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            font-size: 0.95rem;
+            position: relative;
+        }
+
+        nav a:hover {
+            color: #0066ff;
+        }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #0066ff, #00d4ff);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
+        .social-header {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .social-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            background: rgba(0, 102, 255, 0.1);
+            border: 1px solid rgba(0, 102, 255, 0.2);
+            border-radius: 50%;
+            color: #0066ff;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+
+        .social-icon:hover {
+            background: rgba(0, 102, 255, 0.2);
+            border-color: rgba(0, 102, 255, 0.5);
+            transform: translateY(-3px);
+        }
+
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            gap: 0.5rem;
+        }
+
+        .hamburger span {
+            width: 25px;
+            height: 3px;
+            background: #0066ff;
+            border-radius: 2px;
+            transition: all 0.3s ease;
+        }
+
+        .hamburger.active span:nth-child(1) {
+            transform: rotate(45deg) translate(10px, 10px);
+        }
+
+        .hamburger.active span:nth-child(2) {
+            opacity: 0;
+        }
+
+        .hamburger.active span:nth-child(3) {
+            transform: rotate(-45deg) translate(7px, -7px);
+        }
+
+        @media (max-width: 1024px) {
+            .social-header {
+                display: none;
+            }
+
+            header {
+                padding: 1rem;
+            }
+
+            .hamburger {
+                display: flex;
+            }
+
+            nav {
+                position: absolute;
+                top: 70px;
+                left: 0;
+                right: 0;
+                background: rgba(255, 255, 255, 0.95);
+                flex-direction: column;
+                gap: 1rem;
+                padding: 2rem;
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.3s ease;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            }
+
+            nav.active {
+                max-height: 400px;
+            }
+
+            nav a {
+                display: block;
+                padding: 0.8rem 0;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            }
+        }
+
+        /* Alert Bar */
+        .alert-bar {
+            background: linear-gradient(90deg, #ff6b6b 0%, #ee5a6f 100%);
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            font-weight: 700;
+            font-size: 1rem;
+            margin-top: 70px;
+            letter-spacing: 0.5px;
+            box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);
+        }
+
+        /* Hero Section */
+        .hero {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            align-items: center;
+            padding: 5rem 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            min-height: 650px;
+        }
+
+        .hero-content h1 {
+            font-size: 3.2rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 1.5rem;
+            color: #1a1f35;
+            letter-spacing: -1px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .hero-content h1 span {
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            color: #4a5568;
+            margin-bottom: 2rem;
+            line-height: 1.7;
+            font-weight: 400;
+        }
+
+        .hero-bullets {
+            list-style: none;
+            margin-bottom: 2.5rem;
+        }
+
+        .hero-bullets li {
+            padding: 0.9rem 0;
+            padding-left: 2.5rem;
+            position: relative;
+            color: #2d3748;
+            font-size: 1.05rem;
+            font-weight: 500;
+        }
+
+        .hero-bullets li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #0066ff;
+            font-weight: 800;
+            font-size: 1.3rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            color: white;
+            padding: 1.1rem 2.8rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.05rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 10px 30px rgba(0, 102, 255, 0.2);
+            letter-spacing: 0.5px;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 40px rgba(0, 102, 255, 0.3);
+        }
+
+        .cta-button:active {
+            transform: translateY(-2px);
+        }
+
+        .hero-image {
+            position: relative;
+        }
+
+        .hero-image img {
+            width: 100%;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 102, 255, 0.15);
+            object-fit: cover;
+            border: 1px solid rgba(0, 102, 255, 0.1);
+        }
+
+        @media (max-width: 1200px) {
+            .hero {
+                grid-template-columns: 1fr;
+                gap: 2.5rem;
+                min-height: auto;
+                padding: 3rem 1.5rem;
+            }
+
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero-content p {
+                font-size: 1.1rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero {
+                padding: 2rem 1rem;
+            }
+
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+
+            .hero-content p {
+                font-size: 1rem;
+            }
+
+            .hero-bullets li {
+                font-size: 0.95rem;
+            }
+        }
+
+        /* Grupos VIP Section */
+        .grupos-section {
+            padding: 5rem 2rem;
+            background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(230, 240, 255, 0.3) 100%);
+            margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 4rem;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .section-header h2 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            color: #1a1f35;
+            letter-spacing: -0.5px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .section-header h2 span {
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .section-header p {
+            font-size: 1.1rem;
+            color: #4a5568;
+            line-height: 1.7;
+            font-weight: 400;
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .card {
+            background: white;
+            border: 1px solid rgba(0, 102, 255, 0.08);
+            border-radius: 16px;
+            padding: 0;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .card:hover {
+            transform: translateY(-12px);
+            border-color: rgba(0, 102, 255, 0.2);
+            box-shadow: 0 20px 50px rgba(0, 102, 255, 0.12);
+        }
+
+        .card-image {
+            width: 100%;
+            height: 320px;
+            object-fit: cover;
+            border-bottom: 1px solid rgba(0, 102, 255, 0.08);
+            transition: transform 0.4s ease;
+        }
+
+        .card:hover .card-image {
+            transform: scale(1.05);
+        }
+
+        .card-content {
+            padding: 2.5rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-badge {
+            display: inline-block;
+            background: rgba(0, 102, 255, 0.1);
+            color: #0066ff;
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            width: fit-content;
+            border: 1px solid rgba(0, 102, 255, 0.2);
+        }
+
+        .card h3 {
+            font-size: 1.8rem;
+            font-weight: 800;
+            margin-bottom: 0.8rem;
+            color: #1a1f35;
+            letter-spacing: -0.3px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .card p {
+            color: #4a5568;
+            margin-bottom: 1.8rem;
+            line-height: 1.7;
+            font-size: 0.95rem;
+            font-weight: 400;
+        }
+
+        .card-bullets {
+            list-style: none;
+            margin-bottom: 2rem;
+            flex: 1;
+        }
+
+        .card-bullets li {
+            padding: 0.8rem 0;
+            padding-left: 2rem;
+            position: relative;
+            color: #2d3748;
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+
+        .card-bullets li:before {
+            content: "🛍️";
+            position: absolute;
+            left: 0;
+            font-size: 1rem;
+        }
+
+        .card-button {
+            display: block;
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1.05rem;
+            margin-bottom: 1.2rem;
+            box-shadow: 0 8px 25px rgba(0, 102, 255, 0.2);
+            letter-spacing: 0.5px;
+        }
+
+        .card-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 102, 255, 0.3);
+        }
+
+        .card-button:active {
+            transform: translateY(-1px);
+        }
+
+        .social-proof {
+            text-align: center;
+            color: #4a5568;
+            font-size: 0.9rem;
+            padding-top: 1.2rem;
+            border-top: 1px solid rgba(0, 102, 255, 0.08);
+            font-weight: 500;
+        }
+
+        @media (max-width: 1024px) {
+            .cards-container {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            .section-header h2 {
+                font-size: 2.2rem;
+            }
+
+            .card h3 {
+                font-size: 1.6rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .grupos-section {
+                padding: 3rem 1rem;
+            }
+
+            .card-content {
+                padding: 1.5rem;
+            }
+
+            .card-image {
+                height: 220px;
+            }
+
+            .section-header h2 {
+                font-size: 1.8rem;
+            }
+        }
+
+        /* Como Funciona Section */
+        .como-funciona {
+            padding: 5rem 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: linear-gradient(180deg, rgba(230, 240, 255, 0.3) 0%, rgba(255, 255, 255, 0.5) 100%);
+        }
+
+        .steps-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .step {
+            background: white;
+            border: 1px solid rgba(0, 102, 255, 0.08);
+            border-radius: 12px;
+            padding: 2.5rem 2rem;
+            text-align: center;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+        }
+
+        .step:hover {
+            border-color: rgba(0, 102, 255, 0.2);
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(0, 102, 255, 0.1);
+        }
+
+        .step-icon {
+            font-size: 2.8rem;
+            margin-bottom: 1.2rem;
+            display: inline-block;
+        }
+
+        .step h4 {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #1a1f35;
+            margin-bottom: 0.8rem;
+            letter-spacing: -0.3px;
+        }
+
+        .step p {
+            color: #4a5568;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            font-weight: 400;
+        }
+
+        @media (max-width: 1200px) {
+            .steps-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .steps-container {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .como-funciona {
+                padding: 3rem 1rem;
+            }
+
+            .step {
+                padding: 2rem;
+            }
+        }
+
+        /* Benefícios Section */
+        .beneficios {
+            padding: 5rem 2rem;
+            background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(230, 240, 255, 0.3) 100%);
+            margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .beneficios-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .beneficios-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2.5rem;
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+        }
+
+        .beneficio-item {
+            padding: 2.5rem;
+            background: white;
+            border-left: 4px solid #0066ff;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+            border: 1px solid rgba(0, 102, 255, 0.08);
+        }
+
+        .beneficio-item:hover {
+            background: linear-gradient(135deg, rgba(0, 102, 255, 0.02) 0%, rgba(0, 212, 255, 0.02) 100%);
+            transform: translateX(8px);
+            box-shadow: 0 10px 30px rgba(0, 102, 255, 0.08);
+        }
+
+        .beneficio-item h4 {
+            color: #0066ff;
+            font-size: 1.2rem;
+            margin-bottom: 0.8rem;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+        }
+
+        .beneficio-item p {
+            color: #4a5568;
+            line-height: 1.7;
+            font-size: 0.95rem;
+            font-weight: 400;
+        }
+
+        .social-section {
+            text-align: center;
+            padding: 3rem;
+            background: white;
+            border: 1px solid rgba(0, 102, 255, 0.1);
+            border-radius: 16px;
+            margin-top: 3rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .social-section h4 {
+            color: #1a1f35;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .social-section p {
+            color: #4a5568;
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 1.5rem;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.8rem;
+            background: linear-gradient(135deg, rgba(0, 102, 255, 0.08) 0%, rgba(0, 212, 255, 0.08) 100%);
+            color: #0066ff;
+            padding: 0.9rem 1.8rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(0, 102, 255, 0.2);
+            font-size: 0.95rem;
+        }
+
+        .social-link:hover {
+            background: linear-gradient(135deg, rgba(0, 102, 255, 0.15) 0%, rgba(0, 212, 255, 0.15) 100%);
+            border-color: rgba(0, 102, 255, 0.5);
+            transform: translateY(-3px);
+        }
+
+        .social-link-icon {
+            font-size: 1.3rem;
+        }
+
+        @media (max-width: 768px) {
+            .beneficios-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .beneficios {
+                padding: 3rem 1rem;
+            }
+
+            .social-section {
+                padding: 2rem;
+            }
+
+            .social-links {
+                flex-direction: column;
+            }
+
+            .social-link {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Footer */
+        footer {
+            background: linear-gradient(135deg, #1a1f35 0%, #2d3748 100%);
+            padding: 4rem 2rem 2rem;
+            margin-top: 3rem;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 3rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .footer-section h5 {
+            color: white;
+            font-size: 1.1rem;
+            margin-bottom: 1.2rem;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+        }
+
+        .footer-section p {
+            color: #cbd5e0;
+            font-size: 0.9rem;
+            line-height: 1.7;
+            margin-bottom: 0.8rem;
+        }
+
+        .footer-section a {
+            color: #a0aec0;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            display: inline-block;
+            margin: 0.5rem 0;
+            font-weight: 500;
+        }
+
+        .footer-section a:hover {
+            color: #0066ff;
+            transform: translateX(4px);
+        }
+
+        .footer-social {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.2rem;
+        }
+
+        .footer-social-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background: rgba(0, 102, 255, 0.15);
+            border: 1px solid rgba(0, 102, 255, 0.3);
+            border-radius: 50%;
+            color: #0066ff;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-size: 1.1rem;
+        }
+
+        .footer-social-icon:hover {
+            background: rgba(0, 102, 255, 0.3);
+            border-color: rgba(0, 102, 255, 0.6);
+            transform: translateY(-4px);
+        }
+
+        .footer-bottom {
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding-top: 2rem;
+            color: #a0aec0;
+            font-size: 0.85rem;
+        }
+
+        .footer-disclaimer {
+            background: rgba(0, 102, 255, 0.05);
+            border: 1px solid rgba(0, 102, 255, 0.15);
+            border-radius: 12px;
+            padding: 1.8rem;
+            margin-top: 1.5rem;
+            color: #cbd5e0;
+            font-size: 0.85rem;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 1024px) {
+            .footer-content {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            footer {
+                padding: 3rem 1rem 1.5rem;
+            }
+        }
+
+        /* Smooth Scroll */
+        .scroll-smooth {
+            scroll-behavior: smooth;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .card, .step, .beneficio-item {
+            animation: fadeInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-logo">
+            <img src="Logo-FluxIA-Afiliados.jpg" alt="Logo FluxIA">
+            <span class="header-logo-text">FluxIA</span>
+        </div>
+        <nav id="nav-menu">
+            <a href="#inicio">Início</a>
+            <a href="#grupos">Grupos</a>
+            <a href="#como-funciona">Como funciona</a>
+            <a href="#beneficios">Benefícios</a>
+        </nav>
+        <div class="social-header">
+            <a href="https://instagram.com/fluxia.ofertas" target="_blank" class="social-icon" title="Instagram">📷</a>
+            <a href="https://facebook.com/fluxia.afiliados" target="_blank" class="social-icon" title="Facebook">f</a>
+            <a href="https://wa.me/5553999252664" target="_blank" class="social-icon" title="WhatsApp">💬</a>
+        </div>
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+    <!-- Alert Bar -->
+    <div class="alert-bar">
+        🎯 APROVEITE AGORA AS MELHORES PROMOÇÕES DE 2026
+    </div>
+
+    <!-- Hero Section -->
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Compre <span>inteligente</span>, economize <span>sempre</span></h1>
+            <p>Descubra as melhores ofertas de compras online em tempo real. Produtos originais, marcas premium e ofertas gerais com descuentos incríveis.</p>
+            <ul class="hero-bullets">
+                <li>Ofertas verificadas e 100% seguras</li>
+                <li>Marcas originais com até 70% de desconto</li>
+                <li>Alertas em tempo real 24/7</li>
+            </ul>
+            <a href="#grupos" class="cta-button">Entrar nos grupos agora</a>
+        </div>
+        <div class="hero-image">
+            <img src="image.jpg" alt="FluxIA - Compras Online">
+        </div>
+    </section>
+
+    <!-- Grupos VIP Section -->
+    <section id="grupos" class="grupos-section">
+        <div class="section-header">
+            <h2>Escolha seu <span>grupo de ofertas</span></h2>
+            <p>Dois grupos exclusivos, cada um com sua proposta única para maximizar sua economia em compras online.</p>
+        </div>
+
+        <div class="cards-container">
+            <!-- Card 1: FluxIA Vip -->
+            <div class="card">
+                <img src="vip.png" alt="FluxIA Vip" class="card-image">
+                <div class="card-content">
+                    <span class="card-badge">🏆 MAIS POPULAR</span>
+                    <h3>FluxIA Vip</h3>
+                    <p>Ofertas gerais em tudo que você precisa para comprar online. De eletrônicos a produtos para casa, pet, moda e muito mais.</p>
+                    <ul class="card-bullets">
+                        <li>Eletrônicos, casa e decoração</li>
+                        <li>Produtos para pets e animais</li>
+                        <li>Moda, beleza e bem-estar</li>
+                        <li>Mercado e alimentos com desconto</li>
+                        <li>Alertas diários de super ofertas</li>
+                    </ul>
+                    <a href="https://chat.whatsapp.com/LINK_DO_GRUPO_FLUXIA_VIP" class="card-button">Entrar no FluxIA Vip</a>
+                    <div class="social-proof">🔥 2.500+ membros economizando diariamente</div>
+                </div>
+            </div>
+
+            <!-- Card 2: FluxIA Prime -->
+            <div class="card">
+                <img src="prime.png" alt="FluxIA Prime" class="card-image">
+                <div class="card-content">
+                    <span class="card-badge">✨ PREMIUM</span>
+                    <h3>FluxIA Prime</h3>
+                    <p>Marcas de ponta e produtos originais com desconto. Nike, Adidas, Vans, Apple, Samsung e muito mais em compras online.</p>
+                    <ul class="card-bullets">
+                        <li>Nike, Adidas, Vans e esportivas</li>
+                        <li>Apple, Samsung e eletrônicos premium</li>
+                        <li>Ofertas relâmpago exclusivas</li>
+                        <li>Cupons e promoções VIP</li>
+                        <li>Menos mensagens, mais qualidade</li>
+                    </ul>
+                    <a href="https://chat.whatsapp.com/LINK_DO_GRUPO_FLUXIA_PRIME" class="card-button">Entrar no FluxIA Prime</a>
+                    <div class="social-proof">💎 Vagas limitadas para membros selecionados</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Como Funciona Section -->
+    <section id="como-funciona" class="como-funciona">
+        <div class="section-header">
+            <h2>Como <span>funcionam</span> as compras inteligentes</h2>
+            <p>Tecnologia de ponta para encontrar as melhores ofertas de compras online.</p>
+        </div>
+
+        <div class="steps-container">
+            <div class="step">
+                <div class="step-icon">🔍</div>
+                <h4>Rastreamento</h4>
+                <p>Monitoramos 24/7 os maiores sites de compras online em busca das melhores oportunidades.</p>
+            </div>
+            <div class="step">
+                <div class="step-icon">🤖</div>
+                <h4>Inteligência</h4>
+                <p>Algoritmos avançados filtram milhares de ofertas para encontrar as mais vantajosas.</p>
+            </div>
+            <div class="step">
+                <div class="step-icon">✅</div>
+                <h4>Validação</h4>
+                <p>Nossa equipe valida cada oferta, verificando autenticidade e segurança das compras.</p>
+            </div>
+            <div class="step">
+                <div class="step-icon">📲</div>
+                <h4>Notificação</h4>
+                <p>Você recebe as melhores ofertas no WhatsApp, pronto para fazer suas compras online.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefícios Section -->
+    <section id="beneficios" class="beneficios">
+        <div class="beneficios-container">
+            <div class="section-header">
+                <h2>Por que escolher <span>FluxIA</span> para suas compras?</h2>
+                <p>Somos mais que um grupo de ofertas. Somos seu parceiro na economia inteligente de compras online.</p>
+            </div>
+
+            <div class="beneficios-grid">
+                <div class="beneficio-item">
+                    <h4>💰 Economia Real</h4>
+                    <p>Economize de verdade em suas compras online com ofertas verificadas e descontos reais em produtos que você realmente usa.</p>
+                </div>
+                <div class="beneficio-item">
+                    <h4>🛡️ Segurança Total</h4>
+                    <p>Todas as ofertas são validadas. Compre com confiança sabendo que está adquirindo produtos originais e seguros.</p>
+                </div>
+                <div class="beneficio-item">
+                    <h4>⚡ Velocidade</h4>
+                    <p>Ofertas relâmpago chegam em tempo real. Seja o primeiro a saber e aproveite as melhores oportunidades de compras.</p>
+                </div>
+                <div class="beneficio-item">
+                    <h4>🎯 Curadoria Premium</h4>
+                    <p>Combinamos IA com experiência humana para trazer apenas as melhores oportunidades de compras online do mercado.</p>
+                </div>
+            </div>
+
+            <div class="social-section">
+                <h4>Conecte-se com a FluxIA</h4>
+                <p>Fique por dentro de novidades, dicas exclusivas e promoções especiais para suas compras online.</p>
+                <div class="social-links">
+                    <a href="https://instagram.com/fluxia.ofertas" target="_blank" class="social-link">
+                        <span class="social-link-icon">📷</span>
+                        <span>Instagram</span>
+                    </a>
+                    <a href="https://facebook.com/fluxia.afiliados" target="_blank" class="social-link">
+                        <span class="social-link-icon">f</span>
+                        <span>Facebook</span>
+                    </a>
+                    <a href="https://wa.me/5553999252664" target="_blank" class="social-link">
+                        <span class="social-link-icon">💬</span>
+                        <span>WhatsApp</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h5>FluxIA Ofertas</h5>
+                <p>Rastreio automático de promoções para suas compras online com tecnologia de ponta.</p>
+                <p><strong>📍 Localização:</strong> Bagé - RS, Brasil</p>
+                <div class="footer-social">
+                    <a href="https://instagram.com/fluxia.ofertas" target="_blank" class="footer-social-icon" title="Instagram">📷</a>
+                    <a href="https://facebook.com/fluxia.afiliados" target="_blank" class="footer-social-icon" title="Facebook">f</a>
+                    <a href="https://wa.me/5553999252664" target="_blank" class="footer-social-icon" title="WhatsApp">💬</a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h5>Links Rápidos</h5>
+                <a href="#inicio">Início</a>
+                <a href="#grupos">Grupos</a>
+                <a href="#como-funciona">Como funciona</a>
+                <a href="#beneficios">Benefícios</a>
+                <a href="https://fluxia.net.br" target="_blank">Site Principal</a>
+            </div>
+            <div class="footer-section">
+                <h5>Contato</h5>
+                <p><strong>📱 WhatsApp:</strong></p>
+                <a href="https://wa.me/5553999252664" target="_blank">(53) 99925-2664</a>
+                <p style="margin-top: 1rem;"><strong>💡 Sobre:</strong></p>
+                <p>Divulgamos as melhores oportunidades de compras online de terceiros.</p>
+            </div>
+        </div>
+
+        <div class="footer-disclaimer">
+            <strong>⚠️ Aviso Importante:</strong> FluxIA funciona como divulgadora de oportunidades de compras online de terceiros. Não somos responsáveis pelas transações realizadas em plataformas externas. Sempre verifique a legitimidade das ofertas antes de realizar qualquer compra. Produtos e marcas mencionadas são de propriedade de seus respectivos donos.
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2026 FluxIA Ofertas. Todos os direitos reservados. | Compre inteligente, economize sempre 🛍️</p>
+        </div>
+    </footer>
+
+    <script>
+        // Menu Hamburguer
+        const hamburger = document.getElementById('hamburger');
+        const navMenu = document.getElementById('nav-menu');
+
+        hamburger.addEventListener('click', () => {
+            hamburger.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
+
+        // Fechar menu ao clicar em um link
+        const navLinks = navMenu.querySelectorAll('a');
+        navLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                hamburger.classList.remove('active');
+                navMenu.classList.remove('active');
+            });
+        });
+
+        // Scroll suave para âncoras
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Animação ao scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.card, .step, .beneficio-item').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(30px)';
+            el.style.transition = 'opacity 0.6s ease-out, transform 0.6s ease-out';
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
