@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Fone de Ouvido Bluetooth JBL Tune 720BT",
+    "imagem": "https://images.unsplash.com/photo-1546435011-ad6876276054?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 399.90,
+    "precoDesconto": 199.95,
+    "link": "https://example.com/jbl-tune-720bt"
+  },
+  {
+    "id": 2,
+    "nome": "Smartwatch Xiaomi Watch S1 Active",
+    "imagem": "https://images.unsplash.com/photo-1617043786393-ef2a2780bb8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 999.00,
+    "precoDesconto": 499.50,
+    "link": "https://example.com/xiaomi-watch-s1"
+  },
+  {
+    "id": 3,
+    "nome": "Carregador Rápido USB-C 35W Anker",
+    "imagem": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 180.00,
+    "precoDesconto": 90.00,
+    "link": "https://example.com/anker-charger"
+  },
+  {
+    "id": 4,
+    "nome": "Mouse Gamer Logitech G203 Lightsync RGB",
+    "imagem": "https://images.unsplash.com/photo-1614624532983-4ce033096a57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 250.00,
+    "precoDesconto": 125.00,
+    "link": "https://example.com/logitech-g203"
+  },
+  {
+    "id": 5,
+    "nome": "Teclado Mecânico HyperX Alloy Origins Core",
+    "imagem": "https://images.unsplash.com/photo-1587829191301-4e8dbb507f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 600.00,
+    "precoDesconto": 299.99,
+    "link": "https://example.com/hyperx-alloy"
+  },
+  {
+    "id": 6,
+    "nome": "Webcam Full HD Logitech C920",
+    "imagem": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 400.00,
+    "precoDesconto": 199.99,
+    "link": "https://example.com/logitech-c920"
+  },
+  {
+    "id": 7,
+    "nome": "SSD Kingston NV2 1TB NVMe PCIe 4.0",
+    "imagem": "https://images.unsplash.com/photo-1616717011043-902635964601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 450.00,
+    "precoDesconto": 225.00,
+    "link": "https://example.com/kingston-nv2"
+  },
+  {
+    "id": 8,
+    "nome": "Monitor Gamer Samsung Odyssey G3 24\" 144Hz",
+    "imagem": "https://images.unsplash.com/photo-1611078489935-0eeef867757b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 1500.00,
+    "precoDesconto": 750.00,
+    "link": "https://example.com/samsung-odyssey-g3"
+  },
+  {
+    "id": 9,
+    "nome": "Roteador Wi-Fi 6 TP-Link Archer AX50",
+    "imagem": "https://images.unsplash.com/photo-1621570185104-9e1d8e1f2f1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 700.00,
+    "precoDesconto": 350.00,
+    "link": "https://example.com/tp-link-ax50"
+  },
+  {
+    "id": 10,
+    "nome": "Câmera de Segurança Intelbras Wi-Fi Full HD",
+    "imagem": "https://images.unsplash.com/photo-1605493074043-3e0b7b0b0b0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&h=500&q=80",
+    "precoOriginal": 300.00,
+    "precoDesconto": 150.00,
+    "link": "https://example.com/intelbras-camera"
+  }
+]
