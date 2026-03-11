@@ -30,35 +30,49 @@
             position: fixed;
             top: 0;
             width: 100%;
-            background: rgba(255, 255, 255, 0.8);
+            background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(20px);
-            padding: 1rem 2rem;
+            padding: 0.8rem 2rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
             z-index: 1000;
-            border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.05);
+            border-bottom: 1px solid rgba(0, 102, 255, 0.1);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        header:hover {
+            background: rgba(255, 255, 255, 0.98);
+            box-shadow: 0 6px 40px rgba(0, 102, 255, 0.12);
         }
 
         .header-logo {
             display: flex;
             align-items: center;
-            gap: 0.8rem;
+            gap: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .header-logo:hover {
+            transform: translateY(-2px);
         }
 
         .header-logo img {
-            height: 40px;
+            height: 56px;
             width: auto;
-            transition: transform 0.3s ease;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            filter: drop-shadow(0 2px 8px rgba(0, 102, 255, 0.15));
         }
 
         .header-logo img:hover {
-            transform: scale(1.05);
+            transform: scale(1.08);
+            filter: drop-shadow(0 4px 12px rgba(0, 102, 255, 0.25));
         }
 
         .header-logo-text {
-            font-size: 1.3rem;
+            font-size: 1.5rem;
             font-weight: 800;
             background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
             -webkit-background-clip: text;
@@ -66,6 +80,12 @@
             background-clip: text;
             letter-spacing: -0.5px;
             font-family: 'Poppins', sans-serif;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .header-logo:hover .header-logo-text {
+            filter: drop-shadow(0 2px 4px rgba(0, 102, 255, 0.2));
         }
 
         nav {
@@ -203,7 +223,7 @@
             padding: 1rem;
             font-weight: 700;
             font-size: 1rem;
-            margin-top: 70px;
+            margin-top: 80px;
             letter-spacing: 0.5px;
             box-shadow: 0 4px 15px rgba(255, 107, 107, 0.2);
         }
@@ -885,6 +905,181 @@
         .card, .step, .beneficio-item {
             animation: fadeInUp 0.6s ease-out;
         }
+
+        /* Ofertas do Dia Section */
+        .ofertas-section {
+            padding: 5rem 2rem;
+            background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(230, 240, 255, 0.3) 100%);
+            margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+            display: none;
+        }
+
+        .ofertas-section.active {
+            display: block;
+        }
+
+        .ofertas-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .ofertas-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .produto-card {
+            background: white;
+            border: 1px solid rgba(0, 102, 255, 0.08);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            cursor: pointer;
+        }
+
+        .produto-card:hover {
+            transform: translateY(-12px);
+            border-color: rgba(0, 102, 255, 0.2);
+            box-shadow: 0 20px 50px rgba(0, 102, 255, 0.12);
+        }
+
+        .produto-imagem {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border-bottom: 1px solid rgba(0, 102, 255, 0.08);
+            transition: transform 0.4s ease;
+        }
+
+        .produto-card:hover .produto-imagem {
+            transform: scale(1.05);
+        }
+
+        .produto-info {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
+
+        .produto-nome {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #1a1f35;
+            margin-bottom: 0.8rem;
+            line-height: 1.4;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .produto-precos {
+            margin-bottom: 1.2rem;
+            flex: 1;
+        }
+
+        .produto-preco-original {
+            font-size: 0.9rem;
+            color: #a0aec0;
+            text-decoration: line-through;
+            margin-bottom: 0.3rem;
+        }
+
+        .produto-preco-desconto {
+            font-size: 1.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .produto-desconto-badge {
+            display: inline-block;
+            background: rgba(255, 107, 107, 0.1);
+            color: #ff6b6b;
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            margin-top: 0.5rem;
+            border: 1px solid rgba(255, 107, 107, 0.2);
+        }
+
+        .produto-botao {
+            display: block;
+            background: linear-gradient(135deg, #0066ff 0%, #00d4ff 100%);
+            color: white;
+            padding: 0.9rem 1.5rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 0.95rem;
+            box-shadow: 0 8px 25px rgba(0, 102, 255, 0.2);
+            letter-spacing: 0.5px;
+            width: 100%;
+        }
+
+        .produto-botao:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 102, 255, 0.3);
+        }
+
+        .produto-botao:active {
+            transform: translateY(-1px);
+        }
+
+        @media (max-width: 1200px) {
+            .ofertas-grid {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 1.5rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .ofertas-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+            }
+
+            .ofertas-section {
+                padding: 3rem 1rem;
+            }
+
+            .produto-imagem {
+                height: 180px;
+            }
+
+            .produto-nome {
+                font-size: 1rem;
+            }
+
+            .produto-preco-desconto {
+                font-size: 1.3rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .ofertas-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .produto-imagem {
+                height: 200px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -899,6 +1094,7 @@
             <a href="#grupos">Grupos</a>
             <a href="#como-funciona">Como funciona</a>
             <a href="#beneficios">Benefícios</a>
+            <a href="#ofertas">Ofertas</a>
         </nav>
         <div class="social-header">
             <a href="https://instagram.com/fluxia.ofertas" target="_blank" class="social-icon" title="Instagram">📷</a>
@@ -1061,6 +1257,19 @@
         </div>
     </section>
 
+    <!-- Ofertas do Dia Section -->
+    <section id="ofertas" class="ofertas-section">
+        <div class="ofertas-container">
+            <div class="section-header">
+                <h2>🛒 <span>Ofertas</span> do dia</h2>
+                <p>Confira os melhores descontos em produtos selecionados. Aproveite enquanto durarem!</p>
+            </div>
+            <div class="ofertas-grid" id="ofertas-grid">
+                <!-- Os produtos serão renderizados aqui via JavaScript -->
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer>
         <div class="footer-content">
@@ -1154,6 +1363,137 @@
             el.style.transition = 'opacity 0.6s ease-out, transform 0.6s ease-out';
             observer.observe(el);
         });
+
+        // ========== OFERTAS DO DIA ==========
+
+        // ========== OFERTAS DO DIA - CARREGAMENTO DINÂMICO ==========
+
+        // Variável global para armazenar os produtos carregados dinamicamente
+        let produtos = [];
+
+        // Função assíncrona para carregar os produtos do arquivo JSON hospedado no GitHub
+        async function carregarOfertas() {
+            try {
+                // URL do arquivo JSON no GitHub com cache-busting via timestamp
+                // Substitua 'fluxiaafiliados/fluxia-landing-page' pelos dados corretos do seu repositório
+                const urlJSON = 'https://raw.githubusercontent.com/fluxiaafiliados/fluxia-landing-page/main/ofertas.json?t=' + Date.now();
+                
+                console.log('[FluxIA] Iniciando carregamento de ofertas de:', urlJSON);
+                
+                // Faz o fetch do arquivo JSON
+                const resposta = await fetch(urlJSON);
+                
+                // Verifica se a resposta foi bem-sucedida (status 200-299)
+                if (!resposta.ok) {
+                    throw new Error('Erro HTTP ' + resposta.status + ': ' + resposta.statusText);
+                }
+                
+                // Converte a resposta em JSON
+                const dados = await resposta.json();
+                
+                // Valida se os dados são um array
+                if (!Array.isArray(dados)) {
+                    throw new Error('Formato de dados inválido: esperado um array de produtos');
+                }
+                
+                // Valida se há produtos no array
+                if (dados.length === 0) {
+                    console.warn('[FluxIA] Nenhum produto encontrado no arquivo JSON');
+                    produtos = [];
+                    renderizarOfertas();
+                    return;
+                }
+                
+                // Atribui os dados aos produtos (limitado a 10 itens conforme requisito)
+                produtos = dados.slice(0, 10);
+                
+                console.log('[FluxIA] Ofertas carregadas com sucesso! Total de produtos:', produtos.length);
+                
+                // Renderiza as ofertas após o carregamento bem-sucedido
+                renderizarOfertas();
+                
+            } catch (erro) {
+                // Tratamento de erros: registra no console e oculta a seção
+                console.error('[FluxIA] Erro ao carregar ofertas:', erro.message);
+                console.error('[FluxIA] Stack trace:', erro.stack);
+                
+                // Garante que a seção fica oculta em caso de erro
+                produtos = [];
+                renderizarOfertas();
+            }
+        }
+
+
+        // Funcao para formatar numeros em Real (R$)
+        function formatarReal(valor) {
+            return new Intl.NumberFormat('pt-BR', {
+                style: 'currency',
+                currency: 'BRL',
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            }).format(valor);
+        }
+
+        // Funcao para calcular o percentual de desconto
+        function calcularDesconto(precoOriginal, precoDesconto) {
+            return Math.round(((precoOriginal - precoDesconto) / precoOriginal) * 100);
+        }
+
+        // Funcao para renderizar os produtos
+        function renderizarOfertas() {
+            const grid = document.getElementById('ofertas-grid');
+            const secao = document.querySelector('.ofertas-section');
+
+            // Se nao houver produtos, oculta a secao
+            if (!produtos || produtos.length === 0) {
+                secao.classList.remove('active');
+                return;
+            }
+
+            // Mostra a secao se houver produtos
+            secao.classList.add('active');
+
+            // Limpa o grid
+            grid.innerHTML = '';
+
+            // Renderiza cada produto
+            produtos.forEach((produto, index) => {
+                const desconto = calcularDesconto(produto.precoOriginal, produto.precoDesconto);
+
+                const card = document.createElement('div');
+                card.className = 'produto-card';
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(30px)';
+                card.style.transition = 'opacity 0.6s ease-out, transform 0.6s ease-out';
+
+                card.innerHTML = `
+                    <img src="${produto.imagem}" alt="${produto.nome}" class="produto-imagem">
+                    <div class="produto-info">
+                        <h3 class="produto-nome">${produto.nome}</h3>
+                        <div class="produto-precos">
+                            <div class="produto-preco-original">${formatarReal(produto.precoOriginal)}</div>
+                            <div class="produto-preco-desconto">${formatarReal(produto.precoDesconto)}</div>
+                            <div class="produto-desconto-badge">-${desconto}% OFF</div>
+                        </div>
+                        <a href="${produto.link}" target="_blank" class="produto-botao">Comprar agora</a>
+                    </div>
+                `;
+
+                grid.appendChild(card);
+
+                // Anima o card ao aparecer
+                setTimeout(() => {
+                    card.style.opacity = '1';
+                    card.style.transform = 'translateY(0)';
+                }, index * 100);
+
+                // Observa o card para animacao ao scroll
+                observer.observe(card);
+            });
+        }
+
+        // Renderiza as ofertas quando a pagina carrega
+        document.addEventListener('DOMContentLoaded', carregarOfertas);
     </script>
 </body>
 </html>
