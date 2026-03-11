@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "ML1773220248282043",
+    "nome": "Carabina Pressão Pcp Artemis T-rex Bullpup 5.5mm + Bomba Preto 1397 Mm",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_610274-MLB98652712569_112025-AB.webp",
+    "precoOriginal": 3320,
+    "precoDesconto": 319.11,
+    "link": "https://meli.la/15LQFvs"
+  },
+  {
+    "id": "ML1773221438834030",
+    "nome": "Conversor Com Bateria Starlink Mini Ent 12v Saida 30vdc 65w",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_999198-MLB99727449657_112025-AB.webp",
+    "precoOriginal": 559,
+    "precoDesconto": 54.06,
+    "link": "https://meli.la/31vGGrc"
+  },
+  {
+    "id": "ML1773220248277000",
+    "nome": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth Cor Roxo Galáxia Brinovar",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647496-MLA104133660993_012026-AB.webp",
+    "precoOriginal": 996,
+    "precoDesconto": 96.69,
+    "link": "https://meli.la/2aM6nVF"
+  },
+  {
+    "id": "ML1773222906757TPGI",
+    "nome": "Máquina Aparador De Pelos Panasonic Preto Er389x - 220v",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_970837-MLA99501593114_112025-F.webp",
+    "precoOriginal": 289,
+    "precoDesconto": 197.9,
+    "link": ""
+  },
+  {
+    "id": "ML1773219927766MNC1",
+    "nome": "Tênis Nike Terra Manta Feminino",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_719244-MLB96762832222_112025-F.webp",
+    "precoOriginal": 649.99,
+    "precoDesconto": 449.99,
+    "link": ""
+  },
+  {
+    "id": "ML1773222040957C08M",
+    "nome": "Tablet Huawei Matepad 11.5 6gb+ 128 Gb Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_867960-MLA104301282650_012026-F.webp",
+    "precoOriginal": 2799,
+    "precoDesconto": 1499,
+    "link": ""
+  },
+  {
+    "id": "AMZ1773219660945002",
+    "nome": "Jogo De Frigideiras 2 Peças Alumínio 20198760 Tramontina",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51-qapztIfL._AC_UL450_SR450,320_.jpg",
+    "precoOriginal": 36.1,
+    "precoDesconto": 19,
+    "link": "https://www.amazon.com.br/dp/B077SYYBVZ?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1773219660945008",
+    "nome": "Papel Sulfite, Chamex, A4, 75 Gramas, Pacote De 300 Folhas",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51iOOQ+ULAL._AC_UL450_SR450,320_.jpg",
+    "precoOriginal": 36.08,
+    "precoDesconto": 18.99,
+    "link": "https://www.amazon.com.br/dp/B08CZW8H1L?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1773219660945009",
+    "nome": "Pentel Fita Corretiva Rosa + Refil SM/ZTP205R-P",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/518-IChegHS._AC_UL450_SR450,320_.jpg",
+    "precoOriginal": 37.05,
+    "precoDesconto": 19.5,
+    "link": "https://www.amazon.com.br/dp/B08YGWKDS7?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1773219638594934",
+    "nome": "Apple Capa transparente com MagSafe para iPhone 16 Pro Max ​​​​​​​",
+    "imagem": "https://m.media-amazon.com/images/I/716hoQjVyvL.jpg",
+    "precoOriginal": 569,
+    "precoDesconto": 150,
+    "link": "https://www.amazon.com.br/dp/B0DGHQQK9D?tag=fluxia-20"
+  }
+]
