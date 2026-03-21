@@ -1,30 +1,30 @@
 [
   {
-    "id": "ML1773911431603036",
-    "nome": "Apple iPhone 15 (128 Gb) - Azul - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
-    "precoOriginal": 7209,
-    "precoDesconto": 4024,
-    "link": "https://meli.la/2zANfrd"
-  },
-  {
-    "id": "ML1773913240472019",
-    "nome": "Smart Tv 32'' LG Hd 32lr600bpsa Processador 5 Ger6 Alexa Webos",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934018-MLA99576753908_122025-AB.webp",
-    "precoOriginal": 3557,
-    "precoDesconto": 908.95,
-    "link": "https://meli.la/17BYu3Z"
-  },
-  {
-    "id": "ML1773913240470004",
+    "id": "ML1773999640978004",
     "nome": "Smart Tv 50 Aoc 4k Dled 50u7045/78g Roku Tv Quad",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-AB.webp",
     "precoOriginal": 3799,
-    "precoDesconto": 1952,
+    "precoDesconto": 1889,
     "link": "https://meli.la/2UyGPNh"
   },
   {
-    "id": "ML1773912947070S2DX",
+    "id": "ML1773999640979009",
+    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2240,
+    "link": "https://meli.la/1JfyumB"
+  },
+  {
+    "id": "ML1773999640980015",
+    "nome": "Smart Tv 4k 55 LG Uhd 55ua85 Processador 7 Ai Ger8 4k Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_709546-MLA107588006083_022026-AB.webp",
+    "precoOriginal": 4099,
+    "precoDesconto": 2339,
+    "link": "https://meli.la/1nnVzcz"
+  },
+  {
+    "id": "ML17739993467563L7K",
     "nome": "iPhone Air 256 gb - Dourado-claro - Somente Esim - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_776067-MLA96869935461_102025-F.webp",
     "precoOriginal": 10499,
@@ -32,7 +32,7 @@
     "link": "https://meli.la/2JuzCnr"
   },
   {
-    "id": "ML1773912947069EEMT",
+    "id": "ML1773999346755545K",
     "nome": "Apple iPhone 16 (128 Gb) - Ultramarine - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_842494-MLA96419095420_102025-F.webp",
     "precoOriginal": 7799,
@@ -40,7 +40,7 @@
     "link": "https://meli.la/1j19NYG"
   },
   {
-    "id": "ML1773912947070ZIR2",
+    "id": "ML1773999346757YMBO",
     "nome": "iPhone 17 Pro 512gb - Laranja-cósmico - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_758040-MLA95360409729_102025-F.webp",
     "precoOriginal": 12999,
@@ -48,35 +48,35 @@
     "link": "https://meli.la/22Px6Mv"
   },
   {
-    "id": "AMZ1773911432749002",
+    "id": "AMZ1773997832942004",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9590.78,
-    "precoDesconto": 5047.78,
+    "precoOriginal": 9588.67,
+    "precoDesconto": 5046.67,
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1773913242825002",
+    "id": "AMZ1773999642798004",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9590.78,
-    "precoDesconto": 5047.78,
+    "precoOriginal": 9588.67,
+    "precoDesconto": 5046.67,
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1773911432749019",
-    "nome": "Apple iPhone 15 (128 GB) — Azul",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7883.1,
-    "precoDesconto": 4149,
-    "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
+    "id": "AMZ1774000213011008",
+    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 7884.83,
+    "precoDesconto": 4149.91,
+    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
   },
   {
-    "id": "AMZ1773910852931123",
+    "id": "AMZ1773997251579677",
     "nome": "Apple iPhone Air (256 GB) - Preto sideral",
     "imagem": "https://m.media-amazon.com/images/I/416JhH4tebL.jpg",
     "precoOriginal": 10499,
-    "precoDesconto": 6998.01,
+    "precoDesconto": 7028,
     "link": "https://www.amazon.com.br/dp/B0FQHFTDF7?tag=fluxia-20"
   }
 ]
