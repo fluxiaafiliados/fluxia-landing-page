@@ -1,6 +1,22 @@
 [
   {
-    "id": "ML1774170605735024",
+    "id": "ML1774257005877005",
+    "nome": "Colchão Emma Queen - Tecnologia Alemã Cor Branco/cinza",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734791-MLA107665706897_022026-AB.webp",
+    "precoOriginal": 5909,
+    "precoDesconto": 2349,
+    "link": "https://meli.la/1LFUcpJ"
+  },
+  {
+    "id": "ML1774257005880026",
+    "nome": "Colchão Emma Original Casal - Tecnologia Alemã Cor Branco/cinza",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_622005-MLA107431320527_022026-AB.webp",
+    "precoOriginal": 5369,
+    "precoDesconto": 1949,
+    "link": "https://meli.la/1uontjd"
+  },
+  {
+    "id": "ML1774257005883047",
     "nome": "Apple iPhone 15 (128 Gb) - Azul - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
     "precoOriginal": 7209,
@@ -8,39 +24,7 @@
     "link": "https://meli.la/2zANfrd"
   },
   {
-    "id": "ML1774171204906014",
-    "nome": "Apple iPhone 15 (128 Gb) - Azul - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831434-MLA96401363339_102025-AB.webp",
-    "precoOriginal": 7209,
-    "precoDesconto": 4024,
-    "link": "https://meli.la/2zANfrd"
-  },
-  {
-    "id": "ML1774171204900005",
-    "nome": "Celular Xiaomi Poco X7 Pro 5g Dual Sim 12/256gb Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_895236-MLA99995913127_112025-AB.webp",
-    "precoOriginal": 2400,
-    "precoDesconto": 240,
-    "link": "https://meli.la/2reVNQ3"
-  },
-  {
-    "id": "ML1774171812748CX63",
-    "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Cor Prata Titanium Whitesilver",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985216-MLA107519405429_022026-F.webp",
-    "precoOriginal": 10999,
-    "precoDesconto": 6599,
-    "link": "https://meli.la/1wH8yvP"
-  },
-  {
-    "id": "ML17741721470325QR6",
-    "nome": "iPhone 17 Pro Max 2tb Cor Azul-profundo - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_617500-MLA94699392298_102025-F.webp",
-    "precoOriginal": 18499,
-    "precoDesconto": 14399,
-    "link": "https://meli.la/2z8Xq15"
-  },
-  {
-    "id": "ML177417214703348AG",
+    "id": "ML17742585473333M2Q",
     "nome": "iPhone Air 256 gb - Dourado-claro - Somente Esim - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_776067-MLA96869935461_102025-F.webp",
     "precoOriginal": 10499,
@@ -48,35 +32,51 @@
     "link": "https://meli.la/2JuzCnr"
   },
   {
-    "id": "AMZ1774170620755004",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8605.1,
-    "precoDesconto": 4529,
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "ML1774258547331NS8R",
+    "nome": "Apple iPhone 16 (128 Gb) - Ultramarine - Distribuidor Autorizado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_842494-MLA96419095420_102025-F.webp",
+    "precoOriginal": 7799,
+    "precoDesconto": 4748,
+    "link": "https://meli.la/1j19NYG"
   },
   {
-    "id": "AMZ1774172422536004",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8605.1,
-    "precoDesconto": 4529,
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "ML1774258547333COSL",
+    "nome": "iPhone 17 Pro 512gb - Laranja-cósmico - Distribuidor Autorizado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_758040-MLA95360409729_102025-F.webp",
+    "precoOriginal": 12999,
+    "precoDesconto": 10169,
+    "link": "https://meli.la/22Px6Mv"
   },
   {
-    "id": "AMZ1774170620755006",
+    "id": "AMZ1774257021668006",
     "nome": "Apple iPhone 15 (128 GB) — Azul",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7883.1,
-    "precoDesconto": 4149,
+    "precoOriginal": 8653.44,
+    "precoDesconto": 4554.44,
     "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774170052381273",
-    "nome": "Apple iPhone Air (256 GB) - Preto sideral",
-    "imagem": "https://m.media-amazon.com/images/I/416JhH4tebL.jpg",
+    "id": "AMZ1774258822507006",
+    "nome": "Apple iPhone 15 (128 GB) — Azul",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 8653.44,
+    "precoDesconto": 4554.44,
+    "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1774257021668009",
+    "nome": "Apple iPhone 16 (128 GB) – Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 8605.1,
+    "precoDesconto": 4529,
+    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1774256451791775",
+    "nome": "Macbook Pro Retina Apple 16&quot;, 16gb, Cinza Espacial, Ssd 512gb, Intel Core i7, 2.6 Ghz, Touch Bar e Touch Id - Mvvj2bz/a (Recondicionado)",
+    "imagem": "https://m.media-amazon.com/images/I/51eCgpRvYNL.jpg",
     "precoOriginal": 10499,
-    "precoDesconto": 6996,
-    "link": "https://www.amazon.com.br/dp/B0FQHFTDF7?tag=fluxia-20"
+    "precoDesconto": 4690,
+    "link": "https://www.amazon.com.br/dp/B0GF4CL4QY?tag=fluxia-20"
   }
 ]
