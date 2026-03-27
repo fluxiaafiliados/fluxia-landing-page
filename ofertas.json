@@ -1,6 +1,6 @@
 [
   {
-    "id": "ML1774430408498008",
+    "id": "ML1774516805777007",
     "nome": "Smartphone Huawei Pura 80 Ultra 16gb+512gb Câmera Teleobjetiva Dupla Alternável Câmera Hdr Ultra-iluminação De 1 Polegada Cancelamento De Ruído Com Ia 5.170mah Celular Preto",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934628-MLA100494503945_122025-AB.webp",
     "precoOriginal": 12999,
@@ -8,7 +8,7 @@
     "link": "https://meli.la/1crE666"
   },
   {
-    "id": "ML1774430408500016",
+    "id": "ML1774516805778012",
     "nome": "Samsung Galaxy S25 5g, 256gb, 12gb, Câmera Tripla - Azul Marinho",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839006-MLA100007826225_122025-AB.webp",
     "precoOriginal": 5999,
@@ -16,7 +16,7 @@
     "link": "https://meli.la/2NwHdBi"
   },
   {
-    "id": "ML1774430408498005",
+    "id": "ML1774516805777004",
     "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
     "precoOriginal": 5799,
@@ -24,7 +24,7 @@
     "link": "https://meli.la/11CLn2Y"
   },
   {
-    "id": "ML1774431012854GJJK",
+    "id": "ML1774517412638V26P",
     "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Cor Prata Titanium Whitesilver",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985216-MLA107519405429_022026-F.webp",
     "precoOriginal": 10999,
@@ -32,7 +32,7 @@
     "link": "https://meli.la/1wH8yvP"
   },
   {
-    "id": "ML1774431346911Z6DC",
+    "id": "ML1774517746590XASN",
     "nome": "iPhone 17 Pro Max 2tb Cor Azul-profundo - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_617500-MLA94699392298_102025-F.webp",
     "precoOriginal": 18499,
@@ -40,7 +40,7 @@
     "link": "https://meli.la/2z8Xq15"
   },
   {
-    "id": "ML1774431346912NAKT",
+    "id": "ML1774517746590H0LS",
     "nome": "iPhone Air 256 gb - Dourado-claro - Somente Esim - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_776067-MLA96869935461_102025-F.webp",
     "precoOriginal": 10499,
@@ -48,35 +48,35 @@
     "link": "https://meli.la/2JuzCnr"
   },
   {
-    "id": "AMZ1774429822766011",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9498.1,
-    "precoDesconto": 4999,
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "AMZ1774516220779025",
+    "nome": "Celular Samsung Galaxy S26 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Preto - Você ganha o dobro de memória (512GB) pelo mesmo preço de 256GB",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/614yVnCr2XL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 18050,
+    "precoDesconto": 9500,
+    "link": "https://www.amazon.com.br/dp/B0GKQBYWTY?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774431622526011",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9498.1,
-    "precoDesconto": 4999,
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "AMZ1774516220779012",
+    "nome": "Apple iPhone 16 (128 GB) – Branco",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 9709,
+    "precoDesconto": 5110,
+    "link": "https://www.amazon.com.br/dp/B0DJFTCKNN?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774429822766016",
-    "nome": "Apple iPhone 15 (128 GB) — Azul",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8357.47,
-    "precoDesconto": 4398.67,
-    "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
+    "id": "AMZ1774518022604012",
+    "nome": "Apple iPhone 16 (128 GB) – Branco",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61ctYsUobKL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 9709,
+    "precoDesconto": 5110,
+    "link": "https://www.amazon.com.br/dp/B0DJFTCKNN?tag=fluxia-20"
   },
   {
-    "id": "AMZ177442983206199",
-    "nome": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9&quot;, Titânio Prata",
-    "imagem": "https://m.media-amazon.com/images/I/51dg66hT8WL.jpg",
+    "id": "AMZ1774516234391890",
+    "nome": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9&quot;, Titânio Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/51ivZLq1yeL.jpg",
     "precoOriginal": 11999,
     "precoDesconto": 6999,
-    "link": "https://www.amazon.com.br/dp/B0DSY663DK?tag=fluxia-20"
+    "link": "https://www.amazon.com.br/dp/B0DSXZZH49?tag=fluxia-20"
   }
 ]
