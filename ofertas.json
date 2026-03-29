@@ -1,30 +1,38 @@
 [
   {
-    "id": "ML1774603206011007",
-    "nome": "Smartphone Huawei Pura 80 Ultra 16gb+512gb Câmera Teleobjetiva Dupla Alternável Câmera Hdr Ultra-iluminação De 1 Polegada Cancelamento De Ruído Com Ia 5.170mah Celular Preto",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934628-MLA100494503945_122025-AB.webp",
-    "precoOriginal": 12999,
-    "precoDesconto": 7499,
-    "link": "https://meli.la/1crE666"
+    "id": "ML1774690842477004",
+    "nome": "Samsung Smart Tv 58 Crystal Uhd 4k U8500f 2025",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659646-MLA97116174616_112025-AB.webp",
+    "precoOriginal": 2799,
+    "precoDesconto": 279.9,
+    "link": "https://meli.la/231XvDS"
   },
   {
-    "id": "ML1774603206013016",
-    "nome": "Samsung Galaxy S25 5g, 256gb, 12gb, Câmera Tripla - Azul Marinho",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839006-MLA100007826225_122025-AB.webp",
-    "precoOriginal": 5999,
-    "precoDesconto": 3672,
-    "link": "https://meli.la/2NwHdBi"
+    "id": "ML1774689005696012",
+    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2424,
+    "link": "https://meli.la/1JfyumB"
   },
   {
-    "id": "ML1774603206010004",
-    "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
-    "precoOriginal": 5799,
-    "precoDesconto": 3597,
-    "link": "https://meli.la/11CLn2Y"
+    "id": "ML1774690842475000",
+    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2424,
+    "link": "https://meli.la/1JfyumB"
   },
   {
-    "id": "ML1774603812688K4IR",
+    "id": "ML1774690213009UC6E",
+    "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. - Titanium Silverblue",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_872724-MLA94924325982_102025-F.webp",
+    "precoOriginal": 10999,
+    "precoDesconto": 6592,
+    "link": "https://meli.la/2oSf3nA"
+  },
+  {
+    "id": "ML1774690213010H7ZU",
     "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Cor Prata Titanium Whitesilver",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985216-MLA107519405429_022026-F.webp",
     "precoOriginal": 10999,
@@ -32,7 +40,7 @@
     "link": "https://meli.la/1wH8yvP"
   },
   {
-    "id": "ML1774604146814E4KG",
+    "id": "ML1774690546798RSDZ",
     "nome": "iPhone 17 Pro Max 2tb Cor Azul-profundo - Distribuidor Autorizado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_617500-MLA94699392298_102025-F.webp",
     "precoOriginal": 18499,
@@ -40,15 +48,7 @@
     "link": "https://meli.la/2z8Xq15"
   },
   {
-    "id": "ML1774604146814TF18",
-    "nome": "iPhone Air 256 gb - Dourado-claro - Somente Esim - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_776067-MLA96869935461_102025-F.webp",
-    "precoOriginal": 10499,
-    "precoDesconto": 7090,
-    "link": "https://meli.la/2JuzCnr"
-  },
-  {
-    "id": "AMZ1774602620430001",
+    "id": "AMZ1774689023239001",
     "nome": "Apple iPhone 16 (128 GB) – Rosa",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": 9709,
@@ -56,7 +56,7 @@
     "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774604422558001",
+    "id": "AMZ1774690823022001",
     "nome": "Apple iPhone 16 (128 GB) – Rosa",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": 9709,
@@ -64,19 +64,19 @@
     "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774602620430007",
+    "id": "AMZ1774689023240013",
     "nome": "Apple iPhone 15 (128 GB) — Azul",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8244.1,
-    "precoDesconto": 4339,
+    "precoOriginal": 8354.7,
+    "precoDesconto": 4397.21,
     "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774602634626903",
-    "nome": "Samsung Galaxy S23 5G 256GB Tela 6.1&#x27;&#x27; 8GB RAM IP68 Processador Qualcomm Snapdragon 8 Gen 2 Câmera Tripla de até 50MP + Selfie 12MP - Preto (Recondicionado)",
-    "imagem": "https://m.media-amazon.com/images/I/51B-CvsQ07L.jpg",
-    "precoOriginal": 10799,
-    "precoDesconto": 2589,
-    "link": "https://www.amazon.com.br/dp/B0FTMRT71M?tag=fluxia-20"
+    "id": "AMZ1774689035753377",
+    "nome": "Smartphone Samsung Galaxy A15 4G 128GB - Azul Escuro (Recondicionado)",
+    "imagem": "https://m.media-amazon.com/images/I/51y7Q-3b0rL.jpg",
+    "precoOriginal": 6099,
+    "precoDesconto": 843.57,
+    "link": "https://www.amazon.com.br/dp/B0FTMV5RYB?tag=fluxia-20"
   }
 ]
