@@ -1,30 +1,38 @@
 [
   {
-    "id": "ML1774690842477004",
-    "nome": "Samsung Smart Tv 58 Crystal Uhd 4k U8500f 2025",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_659646-MLA97116174616_112025-AB.webp",
-    "precoOriginal": 2799,
-    "precoDesconto": 279.9,
-    "link": "https://meli.la/231XvDS"
+    "id": "ML1774775409700033",
+    "nome": "Caixa De Som Boombox Plus Aiwa Bbs-01-b 200w Bt 30h Ip66 Usb Preto",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648121-MLA100027586579_122025-AB.webp",
+    "precoOriginal": 1799,
+    "precoDesconto": 179.99,
+    "link": "https://meli.la/1Aa8x8V"
   },
   {
-    "id": "ML1774689005696012",
-    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
+    "id": "ML1774776006402004",
+    "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
+    "precoOriginal": 5799,
+    "precoDesconto": 4084,
+    "link": "https://meli.la/11CLn2Y"
+  },
+  {
+    "id": "ML1774775409697016",
+    "nome": "Caixa De Som Bluetooth À Prova D'água Boombox 4 Jbl - Preta Preto 127/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682250-MLA99395859458_112025-AB.webp",
     "precoOriginal": 3999,
-    "precoDesconto": 2424,
-    "link": "https://meli.la/1JfyumB"
+    "precoDesconto": 2414,
+    "link": "https://meli.la/1UVSfue"
   },
   {
-    "id": "ML1774690842475000",
-    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
-    "precoOriginal": 3999,
-    "precoDesconto": 2424,
-    "link": "https://meli.la/1JfyumB"
+    "id": "ML177477661276866PO",
+    "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Titanium Black Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_866201-MLA107519248919_022026-F.webp",
+    "precoOriginal": 10999,
+    "precoDesconto": 6394,
+    "link": "https://meli.la/2vvjp2L"
   },
   {
-    "id": "ML1774690213009UC6E",
+    "id": "ML1774776612769UQ4B",
     "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. - Titanium Silverblue",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_872724-MLA94924325982_102025-F.webp",
     "precoOriginal": 10999,
@@ -32,7 +40,7 @@
     "link": "https://meli.la/2oSf3nA"
   },
   {
-    "id": "ML1774690213010H7ZU",
+    "id": "ML1774776612769Z32K",
     "nome": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, Câm. Quád. Cor Prata Titanium Whitesilver",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_985216-MLA107519405429_022026-F.webp",
     "precoOriginal": 10999,
@@ -40,43 +48,35 @@
     "link": "https://meli.la/1wH8yvP"
   },
   {
-    "id": "ML1774690546798RSDZ",
-    "nome": "iPhone 17 Pro Max 2tb Cor Azul-profundo - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_617500-MLA94699392298_102025-F.webp",
-    "precoOriginal": 18499,
-    "precoDesconto": 14399,
-    "link": "https://meli.la/2z8Xq15"
-  },
-  {
-    "id": "AMZ1774689023239001",
-    "nome": "Apple iPhone 16 (128 GB) – Rosa",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9709,
-    "precoDesconto": 5110,
-    "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1774690823022001",
-    "nome": "Apple iPhone 16 (128 GB) – Rosa",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9709,
-    "precoDesconto": 5110,
-    "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1774689023240013",
+    "id": "AMZ1774775421020019",
     "nome": "Apple iPhone 15 (128 GB) — Azul",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8354.7,
-    "precoDesconto": 4397.21,
+    "precoOriginal": 10600.1,
+    "precoDesconto": 5579,
     "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
   },
   {
-    "id": "AMZ1774689035753377",
-    "nome": "Smartphone Samsung Galaxy A15 4G 128GB - Azul Escuro (Recondicionado)",
-    "imagem": "https://m.media-amazon.com/images/I/51y7Q-3b0rL.jpg",
-    "precoOriginal": 6099,
-    "precoDesconto": 843.57,
-    "link": "https://www.amazon.com.br/dp/B0FTMV5RYB?tag=fluxia-20"
+    "id": "AMZ1774775421020003",
+    "nome": "Apple iPhone 16 (128 GB) – Rosa",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 9709,
+    "precoDesconto": 5110,
+    "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1774777222463003",
+    "nome": "Apple iPhone 16 (128 GB) – Rosa",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71Z-rd+PWgL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 9709,
+    "precoDesconto": 5110,
+    "link": "https://www.amazon.com.br/dp/B0DJFT8HZC?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1774774854188978",
+    "nome": "Apple iPhone Air (256 GB) - Preto sideral",
+    "imagem": "https://m.media-amazon.com/images/I/416JhH4tebL.jpg",
+    "precoOriginal": 10499,
+    "precoDesconto": 6996,
+    "link": "https://www.amazon.com.br/dp/B0FQHFTDF7?tag=fluxia-20"
   }
 ]
