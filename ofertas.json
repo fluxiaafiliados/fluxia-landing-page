@@ -1,82 +1,75 @@
 [
   {
-    "id": "ML1775295639807017",
-    "nome": "Smart Tv LG Nanocell Ai 4k Nano80 50 Polegadas Cores Puras Processador 7 Ai Ger 8 Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_966516-MLA106909287708_022026-AB.webp",
-    "precoOriginal": 3299,
-    "precoDesconto": 2346,
-    "link": "https://meli.la/1saNtXg"
+    "id": "ML1775553604596012",
+    "nome": "Smartphone Samsung Galaxy A36 5g 256gb 8gb Ram Preto",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645152-MLA99943507023_112025-AB.webp",
+    "precoOriginal": 3399,
+    "precoDesconto": 1559,
+    "link": "https://meli.la/2EkThr1"
   },
   {
-    "id": "ML1775295639805007",
-    "nome": "Smart Tv Philips 50 4k 50pug7019 Google Tv Comando De Voz",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633925-MLA99440641138_112025-AB.webp",
-    "precoOriginal": 2749,
-    "precoDesconto": 1919,
-    "link": "https://meli.la/2ZUyBGR"
+    "id": "ML1775553604594007",
+    "nome": "Smartphone Oppo A6t 5g 256gb, 24gb Ram (8gb + 16gb Virtual Ram), Bateria Gigante De 6500 Mah, Ai Câmera 50mp, Tela 120hz, Nfc, Ip64 - Azul Cristal",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_690885-MLA108423458099_032026-AB.webp",
+    "precoOriginal": 1799,
+    "precoDesconto": 179.9,
+    "link": "https://meli.la/12ZrsCH"
   },
   {
-    "id": "ML1775295639805006",
-    "nome": "Smart Tv 43 Btv43va4regb Led Dolby Audio Roku Tv Cinza Britânia",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_654092-MLA106467989998_022026-AB.webp",
-    "precoOriginal": 2027,
-    "precoDesconto": 1259,
-    "link": "https://meli.la/1xV67uN"
+    "id": "ML1775553604593002",
+    "nome": "Celular Samsung Galaxy A36 5g 256gb 8gb Ram Branco",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697102-MLA99477666220_112025-AB.webp",
+    "precoOriginal": 3399,
+    "precoDesconto": 1674,
+    "link": "https://meli.la/17BpGvF"
   },
+  {},
   {
-    "id": "ML1775295012843XT6E",
-    "nome": "Celular Samsung Galaxy S26 Ultra 5g, 512gb, 12gb Ram, Câmera Quádrupla, Tela Grande De 6.9  Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_948911-MLA109132282938_042026-F.webp",
-    "precoOriginal": 13099,
-    "precoDesconto": 9838,
-    "link": "https://meli.la/2z8wkHN"
-  },
-  {
-    "id": "ML17752950128435BVT",
-    "nome": "Celular Samsung Galaxy S26+ 5g, 512gb, 12gb Ram, Galaxy Ai, Câmera Tripla De 50+12+10, Tela De 6.7  Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_828997-MLA109098365824_042026-F.webp",
-    "precoOriginal": 10799,
-    "precoDesconto": 8110,
-    "link": "https://meli.la/2VZphr3"
-  },
-  {
-    "id": "ML17752950128435UQB",
-    "nome": "Celular Samsung Galaxy S26+ 5g, 512gb, 12gb Ram, Galaxy Ai, Câmera Tripla De 50+12+10, Tela De 6.7 Violeta",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_998789-MLA109098541854_042026-F.webp",
-    "precoOriginal": 10799,
-    "precoDesconto": 8110,
-    "link": "https://meli.la/2b1PpmK"
-  },
-  {
-    "id": "AMZ1775293821042016",
+    "id": "AMZ1775553021395020",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9686.2,
-    "precoDesconto": 5098,
+    "precoOriginal": 10342.33,
+    "precoDesconto": 5443.33,
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775295622704016",
+    "id": "AMZ1775554822510020",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 9686.2,
-    "precoDesconto": 5098,
+    "precoOriginal": 10342.33,
+    "precoDesconto": 5443.33,
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775293821042019",
-    "nome": "Apple iPhone 16e de 128 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7808.79,
-    "precoDesconto": 4109.89,
-    "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
+    "id": "AMZ1775555427084005",
+    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 7884.83,
+    "precoDesconto": 4149.91,
+    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775293833359490",
-    "nome": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9&quot;, Titânio Azul",
-    "imagem": "https://m.media-amazon.com/images/I/51I1IiJE8JL.jpg",
-    "precoOriginal": 10999,
-    "precoDesconto": 5997.99,
-    "link": "https://www.amazon.com.br/dp/B0DSY93451?tag=fluxia-20"
+    "id": "16GGo58Q7",
+    "nome": "Suporte Carro Celular GPS Universal Painel e Parabrisa Resistente Ventosa Ajustável Rotação 360°",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffzfmqrzh1c47",
+    "precoOriginal": 0,
+    "precoDesconto": 18.9,
+    "link": "https://s.shopee.com.br/16GGo58Q7"
+  },
+  {
+    "id": "2VnbFNW2FK",
+    "nome": "KIt 1 2 3 ou 4 Cabo de IPhone Turbo De Máxima Durabilidade",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0naphlgo7p26",
+    "precoOriginal": 0,
+    "precoDesconto": 22,
+    "link": "https://s.shopee.com.br/2VnbFNW2FK"
+  },
+  {
+    "id": "4fs5pNVlnK",
+    "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d",
+    "precoOriginal": 0,
+    "precoDesconto": 32.99,
+    "link": "https://s.shopee.com.br/4fs5pNVlnK"
   }
 ]
