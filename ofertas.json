@@ -1,6 +1,14 @@
 [
   {
-    "id": "ML1775553604596012",
+    "id": "ML1775640005021005",
+    "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
+    "precoOriginal": 5799,
+    "precoDesconto": 3499,
+    "link": "https://meli.la/11CLn2Y"
+  },
+  {
+    "id": "ML1775640005022012",
     "nome": "Smartphone Samsung Galaxy A36 5g 256gb 8gb Ram Preto",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645152-MLA99943507023_112025-AB.webp",
     "precoOriginal": 3399,
@@ -8,15 +16,7 @@
     "link": "https://meli.la/2EkThr1"
   },
   {
-    "id": "ML1775553604594007",
-    "nome": "Smartphone Oppo A6t 5g 256gb, 24gb Ram (8gb + 16gb Virtual Ram), Bateria Gigante De 6500 Mah, Ai Câmera 50mp, Tela 120hz, Nfc, Ip64 - Azul Cristal",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_690885-MLA108423458099_032026-AB.webp",
-    "precoOriginal": 1799,
-    "precoDesconto": 179.9,
-    "link": "https://meli.la/12ZrsCH"
-  },
-  {
-    "id": "ML1775553604593002",
+    "id": "ML1775640005020002",
     "nome": "Celular Samsung Galaxy A36 5g 256gb 8gb Ram Branco",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697102-MLA99477666220_112025-AB.webp",
     "precoOriginal": 3399,
@@ -25,7 +25,15 @@
   },
   {},
   {
-    "id": "AMZ1775553021395020",
+    "id": "AMZ1775639424679026",
+    "nome": "Apple iPhone 16 (128 GB) – Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 10342.33,
+    "precoDesconto": 5443.33,
+    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1775641222614026",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": 10342.33,
@@ -33,43 +41,35 @@
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775554822510020",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 10342.33,
-    "precoDesconto": 5443.33,
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "AMZ1775639424679013",
+    "nome": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412sQk27O0L._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 8231.22,
+    "precoDesconto": 4332.22,
+    "link": "https://www.amazon.com.br/dp/B0DSXX6XB3?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775555427084005",
-    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7884.83,
-    "precoDesconto": 4149.91,
-    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
-  },
-  {
-    "id": "16GGo58Q7",
-    "nome": "Suporte Carro Celular GPS Universal Painel e Parabrisa Resistente Ventosa Ajustável Rotação 360°",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffzfmqrzh1c47",
+    "id": "W2YSiASU9",
+    "nome": "Promo Pack Free Wipes Lenços Umedecidos para Higiene após o nº2",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-max5sj72ie8f28",
     "precoOriginal": 0,
-    "precoDesconto": 18.9,
-    "link": "https://s.shopee.com.br/16GGo58Q7"
+    "precoDesconto": 39.9,
+    "link": "https://s.shopee.com.br/W2YSiASU9"
   },
   {
-    "id": "2VnbFNW2FK",
-    "nome": "KIt 1 2 3 ou 4 Cabo de IPhone Turbo De Máxima Durabilidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0naphlgo7p26",
+    "id": "1LbfSElHsw",
+    "nome": "Fralda Infantil Guto Baby Hiper G 60 Unidades - Entrega Rápida",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261e-mjhgqyirdurn4c",
     "precoOriginal": 0,
-    "precoDesconto": 22,
-    "link": "https://s.shopee.com.br/2VnbFNW2FK"
+    "precoDesconto": 45.49,
+    "link": "https://s.shopee.com.br/1LbfSElHsw"
   },
   {
-    "id": "4fs5pNVlnK",
-    "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d",
+    "id": "16HrfJzfz",
+    "nome": "Capinha de Silicone para Controle Remoto Capa Samsung Smart TV com Alça de Segurança Antiderrapante",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262k-mkwtcwexehaa75",
     "precoOriginal": 0,
-    "precoDesconto": 32.99,
-    "link": "https://s.shopee.com.br/4fs5pNVlnK"
+    "precoDesconto": 14.9,
+    "link": "https://s.shopee.com.br/16HrfJzfz"
   }
 ]
