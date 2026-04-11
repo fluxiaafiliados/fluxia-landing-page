@@ -1,75 +1,75 @@
 [
   {
-    "id": "ML1775726404657005",
-    "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
+    "id": "ML1775812205751024",
+    "nome": "iPhone 16e (128 Gb) - Preto - Distribuidor Autorizado",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_961264-MLA95713213402_102025-AB.webp",
     "precoOriginal": 5799,
-    "precoDesconto": 3699,
-    "link": "https://meli.la/11CLn2Y"
+    "precoDesconto": 3499,
+    "link": "https://meli.la/2KVoMAy"
   },
   {
-    "id": "ML1775726404659012",
-    "nome": "Smartphone Samsung Galaxy A36 5g 256gb 8gb Ram Preto",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645152-MLA99943507023_112025-AB.webp",
-    "precoOriginal": 3399,
-    "precoDesconto": 1612,
-    "link": "https://meli.la/2EkThr1"
+    "id": "ML1775812205752029",
+    "nome": "Smart Tv Profissional 4k 55 LG Uhd 55au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_997328-MLA101890264991_122025-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2521,
+    "link": "https://meli.la/1JfyumB"
   },
   {
-    "id": "ML1775726404655002",
-    "nome": "Celular Samsung Galaxy A36 5g 256gb 8gb Ram Branco",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697102-MLA99477666220_112025-AB.webp",
-    "precoOriginal": 3399,
-    "precoDesconto": 1674,
-    "link": "https://meli.la/17BpGvF"
+    "id": "ML1775814611149006",
+    "nome": "Kit Halteres 6 Em 1 Peso Musculação Até 40kg Ajustável Halter, Kettlebell, Anilha Cor Preto-vermelho + E-book",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723293-MLA101063609196_122025-AB.webp",
+    "precoOriginal": 1645,
+    "precoDesconto": 498.9,
+    "link": "https://meli.la/2U474Ya"
   },
   {},
   {
-    "id": "AMZ1775725822967019",
-    "nome": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412sQk27O0L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8231.22,
-    "precoDesconto": 4332.22,
-    "link": "https://www.amazon.com.br/dp/B0DSXX6XB3?tag=fluxia-20"
+    "id": "AMZ1775814624562001",
+    "nome": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71WCygaQDAL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 7332.1,
+    "precoDesconto": 3859,
+    "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775727622653019",
-    "nome": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412sQk27O0L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8231.22,
-    "precoDesconto": 4332.22,
-    "link": "https://www.amazon.com.br/dp/B0DSXX6XB3?tag=fluxia-20"
+    "id": "AMZ1775815222409018",
+    "nome": "TCL, QLED Smart TV, 55”, 55P8K, 4K UHD, Google TV, 144Hz, Google Assistente, Dolby Vision, Dolby Atmos, Design Sem Bordas",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81GD+OyIUCL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 5888.12,
+    "precoDesconto": 3099.01,
+    "link": "https://www.amazon.com.br/dp/B0GH2SC1XG?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775728224713018",
-    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8026.55,
-    "precoDesconto": 4224.5,
-    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
+    "id": "AMZ1775812851024026",
+    "nome": "Notebook ASUS VivoBook Go 15, AMD RYZEN 5 7520U, 8GB, 512GB SSD, KeepOS, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71TK+vh6JIL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 5698.1,
+    "precoDesconto": 2999,
+    "link": "https://www.amazon.com.br/dp/B0CYW2N6TX?tag=fluxia-20"
   },
   {
-    "id": "9018B5ucvF",
+    "id": "8AS2mSGf5S",
     "nome": "Capinha de Silicone para Controle Remoto Capa Samsung Smart TV com Alça de Segurança Antiderrapante",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262k-mkwtcwexehaa75",
     "precoOriginal": 0,
     "precoDesconto": 14.9,
-    "link": "https://s.shopee.com.br/9018B5ucvF"
+    "link": "https://s.shopee.com.br/8AS2mSGf5S"
   },
   {
-    "id": "5L7poU0stc",
+    "id": "6AgyOtd7D0",
+    "nome": "Fralda Infantil Guto Baby Hiper G 60 Unidades - Entrega Rápida",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261e-mjhgqyirdurn4c",
+    "precoOriginal": 0,
+    "precoDesconto": 45.49,
+    "link": "https://s.shopee.com.br/6AgyOtd7D0"
+  },
+  {
+    "id": "3VgDE04vzr",
     "nome": "Promo Pack Free Wipes Lenços Umedecidos para Higiene após o nº2",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-max5sj72ie8f28",
     "precoOriginal": 0,
     "precoDesconto": 39.9,
-    "link": "https://s.shopee.com.br/5L7poU0stc"
-  },
-  {
-    "id": "4LFIcYBeXg",
-    "nome": "Suporte Carro Celular GPS Universal Painel e Parabrisa Resistente Ventosa Ajustável Rotação 360°",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffzfmqrzh1c47",
-    "precoOriginal": 0,
-    "precoDesconto": 18.9,
-    "link": "https://s.shopee.com.br/4LFIcYBeXg"
+    "link": "https://s.shopee.com.br/3VgDE04vzr"
   }
 ]
