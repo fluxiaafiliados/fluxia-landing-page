@@ -1,75 +1,75 @@
 [
   {
-    "id": "ML1775900439490011",
-    "nome": "Smart Tv U8600f Crystal Uhd 4k 50 2025 Preto Samsung",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_673180-MLA99945056215_112025-AB.webp",
-    "precoOriginal": 2599,
-    "precoDesconto": 249.9,
-    "link": "https://meli.la/1mRJxxH"
-  },
-  {
-    "id": "ML1775901011315004",
-    "nome": "Bicicleta Elétrica 800w Astur Aro 24 Suspensão Acelerador Preto",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914909-MLA105823359345_012026-AB.webp",
-    "precoOriginal": 7499,
-    "precoDesconto": 5314,
-    "link": "https://meli.la/2bDz88X"
-  },
-  {
-    "id": "ML1775900439489003",
+    "id": "ML1775986842145004",
     "nome": "Smart Tv 50 Aoc 4k Dled 50u7045/78g Roku Tv Quad",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-AB.webp",
     "precoOriginal": 3799,
     "precoDesconto": 1790,
     "link": "https://meli.la/2UyGPNh"
   },
+  {
+    "id": "ML1775987411676011",
+    "nome": "Kit Halteres 6 Em 1 Peso Musculação Até 40kg Ajustável Halter, Kettlebell, Anilha Cor Preto-vermelho + E-book",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723293-MLA101063609196_122025-AB.webp",
+    "precoOriginal": 1645,
+    "precoDesconto": 164.6,
+    "link": "https://meli.la/2U474Ya"
+  },
+  {
+    "id": "ML1775986842146015",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2299,
+    "link": "https://meli.la/1MzTNQ2"
+  },
   {},
   {
-    "id": "AMZ1775898627015028",
-    "nome": "Apple iPhone 16e de 128 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7809,
-    "precoDesconto": 4110,
-    "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
+    "id": "AMZ1775985020731028",
+    "nome": "Apple iPhone 16 (128 GB) – Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 10764.55,
+    "precoDesconto": 5665.55,
+    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775900422799028",
-    "nome": "Apple iPhone 16e de 128 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 7809,
-    "precoDesconto": 4110,
-    "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
+    "id": "AMZ1775987426900007",
+    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": 7769.1,
+    "precoDesconto": 4089,
+    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
   },
   {
-    "id": "AMZ1775902220571026",
-    "nome": "Lava-Louças Electrolux 14 Serviços Inox com Programa Lava e Seca 220v LS14E",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+T6Xe5XKL._AC_UL300_SR300,200_.jpg",
-    "precoOriginal": 6573.56,
-    "precoDesconto": 3459.77,
-    "link": "https://www.amazon.com.br/dp/B0FLQJJ47J?tag=fluxia-20"
+    "id": "AMZ1775984465558025",
+    "nome": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran…",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71WCygaQDAL._AC_UL450_SR450,320_.jpg",
+    "precoOriginal": 7332.1,
+    "precoDesconto": 3859,
+    "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=fluxia-20"
   },
   {
-    "id": "5q49b3dBM3",
+    "id": "7ppFZcjLPS",
     "nome": "Capinha de Silicone para Controle Remoto Capa Samsung Smart TV com Alça de Segurança Antiderrapante",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262k-mkwtcwexehaa75",
     "precoOriginal": 0,
     "precoDesconto": 14.9,
-    "link": "https://s.shopee.com.br/5q49b3dBM3"
+    "link": "https://s.shopee.com.br/7ppFZcjLPS"
   },
   {
-    "id": "8AS4NSj8iZ",
+    "id": "4qBe0EZnVI",
     "nome": "Fralda Infantil Guto Baby Hiper G 60 Unidades - Entrega Rápida",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261e-mjhgqyirdurn4c",
     "precoOriginal": 0,
     "precoDesconto": 45.49,
-    "link": "https://s.shopee.com.br/8AS4NSj8iZ"
+    "link": "https://s.shopee.com.br/4qBe0EZnVI"
   },
   {
-    "id": "AKWYxMGuc8",
+    "id": "AKWaYFZ1FN",
     "nome": "Suporte Carro Celular GPS Universal Painel e Parabrisa Resistente Ventosa Ajustável Rotação 360°",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffzfmqrzh1c47",
     "precoOriginal": 0,
     "precoDesconto": 18.9,
-    "link": "https://s.shopee.com.br/AKWYxMGuc8"
+    "link": "https://s.shopee.com.br/AKWaYFZ1FN"
   }
 ]
