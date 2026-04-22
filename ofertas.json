@@ -1,14 +1,14 @@
 [
   {
-    "id": "ML1776676804695004",
-    "nome": "iPhone 16e (128 Gb) - Branco - Distribuidor Autorizado",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_938094-MLA96869129517_102025-AB.webp",
-    "precoOriginal": 5799,
-    "precoDesconto": 3699,
-    "link": "https://meli.la/11CLn2Y"
+    "id": "ML1776763205858039",
+    "nome": "Smartphone Motorola Edge 60 Neo 5g - 256gb 24gb (12gb Ram + 12gb Ram Boost) 50mp Sony Camera Moto Ai E Tela 1.5k Super Hd - Latte",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_837167-MLA99987235485_112025-AB.webp",
+    "precoOriginal": 3799,
+    "precoDesconto": 1799,
+    "link": "https://meli.la/1gBo8pe"
   },
   {
-    "id": "ML1776676205597046",
+    "id": "ML1776763205856024",
     "nome": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927393-MLA100014745899_122025-AB.webp",
     "precoOriginal": 3699,
@@ -16,7 +16,7 @@
     "link": "https://meli.la/2ZJEGJ2"
   },
   {
-    "id": "ML1776676804696010",
+    "id": "ML1776763205856025",
     "nome": "Samsung Galaxy A56 5g Dual Sim 256 Gb Awesome Graphite 8 Gb Ram Grafite",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764117-MLA100003734521_112025-AB.webp",
     "precoOriginal": 3699,
@@ -24,20 +24,28 @@
     "link": "https://meli.la/1zw6BQc"
   },
   {
-    "id": "ML1776676804696011",
-    "nome": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927393-MLA100014745899_122025-AB.webp",
-    "precoOriginal": 3699,
-    "precoDesconto": 1998,
-    "link": "https://meli.la/2ZJEGJ2"
+    "id": "ML1776764440872017",
+    "nome": "Smart Tv 4k LG Qned 50 Polegadas, Processador A7 Ai Gen 8, Webos 25 E Wi-fi - 50qned70asa",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761462-MLA108008296473_032026-AB.webp",
+    "precoOriginal": 4299,
+    "precoDesconto": 2549,
+    "link": "https://meli.la/173Ei41"
   },
   {
-    "id": "ML1776676804699024",
-    "nome": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927393-MLA100014745899_122025-AB.webp",
-    "precoOriginal": 3699,
-    "precoDesconto": 1998,
-    "link": "https://meli.la/2ZJEGJ2"
+    "id": "ML1776763205858038",
+    "nome": "Smartphone Samsung Galaxy A36 5g 256gb 8gb Ram Preto",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645152-MLA99943507023_112025-AB.webp",
+    "precoOriginal": 3299,
+    "precoDesconto": 1696,
+    "link": "https://meli.la/2EkThr1"
+  },
+  {
+    "id": "7fW28XIpYO",
+    "nome": "Escova Elétrica Secadora Modeladora Alisadora 4 Funcionalidades 220v 800w",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxsh719lttva0a",
+    "precoOriginal": 0,
+    "precoDesconto": 62.8,
+    "link": "https://s.shopee.com.br/7fW28XIpYO"
   },
   {
     "id": "901PivGXVj",
@@ -46,6 +54,14 @@
     "precoOriginal": 0,
     "precoDesconto": 18.9,
     "link": "https://s.shopee.com.br/901PivGXVj"
+  },
+  {
+    "id": "5q4PY543r9",
+    "nome": "Fralda Infantil Guto Baby Hiper G 60 Unidades - Entrega Rápida",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261e-mjhgqyirdurn4c",
+    "precoOriginal": 0,
+    "precoDesconto": 49.9,
+    "link": "https://s.shopee.com.br/5q4PY543r9"
   },
   {
     "id": "LjROzaOyj",
@@ -62,21 +78,5 @@
     "precoOriginal": 0,
     "precoDesconto": 32.99,
     "link": "https://s.shopee.com.br/1LbyapWax5"
-  },
-  {
-    "id": "6AhELnp9bi",
-    "nome": "Fralda Infantil Guto Baby Hiper G 60 Unidades - Entrega Rápida",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261e-mjhgqyirdurn4c",
-    "precoOriginal": 0,
-    "precoDesconto": 49.9,
-    "link": "https://s.shopee.com.br/6AhELnp9bi"
-  },
-  {
-    "id": "2LUVmh1a8u",
-    "nome": "Luminária Spot Trilho Triplo 3 Sobrepor Direcionável E-27 Para Lâmpadas Led Bulbo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lkzt6uyayigj4e",
-    "precoOriginal": 0,
-    "precoDesconto": 28.99,
-    "link": "https://s.shopee.com.br/2LUVmh1a8u"
   }
 ]
