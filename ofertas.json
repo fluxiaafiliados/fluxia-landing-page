@@ -1,27 +1,27 @@
 [
   {
-    "id": "ML1778778207354018",
-    "nome": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
-    "precoOriginal": 3299,
-    "precoDesconto": 2089,
-    "link": "https://meli.la/1nuHbRb"
+    "id": "ML1778836231116016",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2299,
+    "link": "https://meli.la/1MzTNQ2"
   },
   {
-    "id": "ML1778778207353004",
-    "nome": "Smart Tv Profissional LG 43 Full Hd Processador A5 Ger6 Ai Alexa Integrada Webos 23 43lr671c-b",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_929244-MLA104540336039_012026-AB.webp",
-    "precoOriginal": 2284,
-    "precoDesconto": 1495,
-    "link": "https://meli.la/2ekfNDU"
+    "id": "ML1778836231116037",
+    "nome": "Freezer Philco Horizontal Pfh205b 199l Cor Branco 220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697084-MLA91562838454_092025-AB.webp",
+    "precoOriginal": 1769,
+    "precoDesconto": 176.9,
+    "link": "https://meli.la/2DvUiuZ"
   },
   {
-    "id": "ML1778780853156094",
-    "nome": "Sunsun Canister Hw-704b 2000l/h Uv 110v 127v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_906139-MLB95630295348_102025-AB.webp",
-    "precoOriginal": 980,
-    "precoDesconto": 98,
-    "link": "https://meli.la/2hjhXTA"
+    "id": "ML1778838658024019",
+    "nome": "Raquete De Padel Nox At10 Genius 18k Agustín Tapia Cinza Escuro",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_908607-MLA99471994434_112025-AB.webp",
+    "precoOriginal": 1999,
+    "precoDesconto": 199.9,
+    "link": "https://meli.la/2pZQJdo"
   },
   {
     "id": "1LcasCnqTy",
@@ -48,15 +48,7 @@
     "link": "https://s.shopee.com.br/90220Igj4I"
   },
   {
-    "id": "AMZ1778751622509017",
-    "nome": "Apple iPhone 16 (256 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 11.968,10",
-    "precoDesconto": "R$ 6.299,00",
-    "link": "https://www.amazon.com.br/dp/B0DJFSKVZ5?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1778751622509023",
+    "id": "AMZ1778836223309028",
     "nome": "Apple iPhone 15 (128 GB) — Rosa",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41RpmPYWXLL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 8.677,72",
@@ -64,12 +56,20 @@
     "link": "https://www.amazon.com.br/dp/B0CP69NT2N?tag=fluxia-20"
   },
   {
-    "id": "AMZ1778752229044002",
-    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 7.961,00",
-    "precoDesconto": "R$ 4.190,00",
-    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
+    "id": "AMZ1778838022726010",
+    "nome": "Apple iPhone 16e de 128 GB — Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 7.305,60",
+    "precoDesconto": "R$ 3.845,05",
+    "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1778836223309021",
+    "nome": "Celular Samsung Galaxy S25 FE 5G, 128GB, 8GB, Câmera Tripla - Jet Black",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51r97URB9GL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 5.523,22",
+    "precoDesconto": "R$ 2.906,96",
+    "link": "https://www.amazon.com.br/dp/B0FTC96JJ5?tag=fluxia-20"
   },
   {
     "id": "1LcasCnqTy",
