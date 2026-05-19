@@ -1,22 +1,14 @@
 [
   {
-    "id": "ML1779008453670005",
-    "nome": "Mini Pc Kamrui E3b Amd Ryzen 5 7430u 16 Gb De Ram 512 Gb Ssd Wi-fi 6 Windows 11 Pro 220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_979071-MLB110118107188_042026-AB.webp",
-    "precoOriginal": 8988,
-    "precoDesconto": 2342,
-    "link": "https://meli.la/2zJ1eyE"
-  },
-  {
-    "id": "ML1779008453671034",
+    "id": "ML1779094853492022",
     "nome": "Projetor Portátil Bettdow 22000lm 1080p 4k Android 12 Wifi Bluetooth Cinza-escuro 127/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832178-MLA104025936094_012026-AB.webp",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_916712-MLA104456426030_012026-AB.webp",
     "precoOriginal": 2399,
     "precoDesconto": 935,
     "link": "https://meli.la/2eBMy3x"
   },
   {
-    "id": "ML1779009031487001",
+    "id": "ML1779095434707001",
     "nome": "Máquina De Lavar Brastemp 14kg Branca Smart Sensor- Bwj14ab 127v Branco",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986650-MLA96608230621_102025-AB.webp",
     "precoOriginal": 2939,
@@ -24,11 +16,19 @@
     "link": "https://meli.la/15h9uC2"
   },
   {
+    "id": "ML1779095434709019",
+    "nome": "Smart Tv Philco 40 P40vik Led Roku Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_797485-MLA109558284021_032026-AB.webp",
+    "precoOriginal": 2099,
+    "precoDesconto": 1299,
+    "link": "https://meli.la/1SEZhvT"
+  },
+  {
     "id": "2qRTRd4tuT",
     "nome": "Fonte Turbo 20w Para IPhone Carregador Turbo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lysby5r3jpkx63",
     "precoOriginal": 0,
-    "precoDesconto": 19.8,
+    "precoDesconto": 19.9,
     "link": "https://s.shopee.com.br/2qRTRd4tuT"
   },
   {
@@ -48,35 +48,35 @@
     "link": "https://s.shopee.com.br/40dQpnICiG"
   },
   {
-    "id": "AMZ1779010831832020",
-    "nome": "Apple iPhone 16 (128 GB) – Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL300_SR300,200_.jpg",
-    "precoOriginal": "R$ 10.341,70",
-    "precoDesconto": "R$ 5.443,00",
-    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+    "id": "AMZ1779097222599016",
+    "nome": "Apple iPhone 16e de 128 GB — Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 7.305,60",
+    "precoDesconto": "R$ 3.845,05",
+    "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
   },
   {
-    "id": "AMZ1779011426960003",
-    "nome": "Bundle Nintendo Switch 2 + Mario Kart World - Modelo Nacional de Tomada",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61lav1BRn9L._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 8.721,00",
-    "precoDesconto": "R$ 4.590,00",
-    "link": "https://www.amazon.com.br/dp/B0GH2FBZ6W?tag=fluxia-20"
+    "id": "AMZ1779097222599015",
+    "nome": "Samsung Smart TV 65\" Crystal UHD 4K U8100F 2025",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 6.459,81",
+    "precoDesconto": "R$ 3.399,90",
+    "link": "https://www.amazon.com.br/dp/B0F5X6L24G?tag=fluxia-20"
   },
   {
-    "id": "AMZ1779011426960006",
-    "nome": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71WCygaQDAL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 7.412,83",
-    "precoDesconto": "R$ 3.901,49",
-    "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=fluxia-20"
+    "id": "AMZ1779097222599020",
+    "nome": "Celular Samsung Galaxy S25 FE 5G, 128GB, 8GB, Câmera Tripla - Azul Marinho",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51tfMqFaK+L._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 5.522,46",
+    "precoDesconto": "R$ 2.906,56",
+    "link": "https://www.amazon.com.br/dp/B0FTCYVMVC?tag=fluxia-20"
   },
   {
     "id": "2qRTRd4tuT",
     "nome": "Fonte Turbo 20w Para IPhone Carregador Turbo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lysby5r3jpkx63",
     "precoOriginal": 0,
-    "precoDesconto": 19.8,
+    "precoDesconto": 19.9,
     "link": "https://s.shopee.com.br/2qRTRd4tuT"
   }
 ]
