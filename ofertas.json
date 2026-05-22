@@ -1,54 +1,62 @@
 [
   {
-    "id": "ML1779268233590004",
-    "nome": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691057-MLA100479527690_122025-AB.webp",
+    "id": "ML1779354631762006",
+    "nome": "Caixa De Som Jbl Boombox 4 Bluetooth Portátil 210w Bivolt Azul",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_674627-MLA100016786223_122025-AB.webp",
+    "precoOriginal": 3421,
+    "precoDesconto": 2345,
+    "link": "https://meli.la/2XpRhoj"
+  },
+  {
+    "id": "ML1779354631762007",
+    "nome": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_636675-MLA107807100101_022026-AB.webp",
     "precoOriginal": 1499,
-    "precoDesconto": 928.32,
-    "link": "https://meli.la/1NydfCR"
+    "precoDesconto": 949,
+    "link": "https://meli.la/2j6HTPS"
   },
   {
-    "id": "ML1779268233590002",
-    "nome": "Máquina De Lavar Brastemp 14kg Branca Smart Sensor- Bwj14ab 127v Branco",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_986650-MLA96608230621_102025-AB.webp",
-    "precoOriginal": 2939,
-    "precoDesconto": 1832,
-    "link": "https://meli.la/15h9uC2"
+    "id": "ML1779354052112034",
+    "nome": "Bicicleta Spinning Knakasaki Nk7102pd Silenciosa Com Display Preto",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_847076-MLB90410865359_082025-AB.webp",
+    "precoOriginal": 1399,
+    "precoDesconto": 524.39,
+    "link": "https://meli.la/2oy6Rnq"
   },
   {
-    "id": "ML1779267650816041",
-    "nome": "Projetor Bettdow Ac1082 Smart Full Hd 18000 Lm Wi-fi Netflix Preto 127/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886720-MLA110032899193_042026-AB.webp",
-    "precoOriginal": 1999,
-    "precoDesconto": 943.45,
-    "link": "https://meli.la/1RjNH4J"
-  },
-  {
-    "id": "60OYPFbw40",
-    "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d",
-    "precoOriginal": 0,
-    "precoDesconto": 34.99,
-    "link": "https://s.shopee.com.br/60OYPFbw40"
-  },
-  {
-    "id": "4LGKQAQT11",
+    "id": "1gFcR2y794",
     "nome": "Fonte Turbo 20w Para IPhone Carregador Turbo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lysby5r3jpkx63",
     "precoOriginal": 0,
     "precoDesconto": 19.8,
-    "link": "https://s.shopee.com.br/4LGKQAQT11"
+    "link": "https://s.shopee.com.br/1gFcR2y794"
   },
   {
-    "id": "9UyQZgObxt",
-    "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zvk-mik9ovwbhszk62",
+    "id": "902DAXvust",
+    "nome": "Suporte Carro Celular GPS Universal Painel e Parabrisa Resistente Ventosa Ajustável Rotação 360°",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffzfmqrzh1c47",
     "precoOriginal": 0,
-    "precoDesconto": 32.99,
-    "link": "https://s.shopee.com.br/9UyQZgObxt"
+    "precoDesconto": 18.9,
+    "link": "https://s.shopee.com.br/902DAXvust"
   },
   {
-    "id": "AMZ1779270022659022",
+    "id": "1BJLq9Pjmb",
+    "nome": "Suporte Celular Carro GPS Universal Painel e Parabrisa  Ajustável Rotação 360°",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mef4uzrylzb4a2",
+    "precoOriginal": 0,
+    "precoDesconto": 17.99,
+    "link": "https://s.shopee.com.br/1BJLq9Pjmb"
+  },
+  {
+    "id": "AMZ1779354624191021",
+    "nome": "Apple iPhone 16 (128 GB) – Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 10.341,70",
+    "precoDesconto": "R$ 5.443,00",
+    "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1779356422622019",
     "nome": "Apple iPhone 16e de 128 GB — Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/412RWxKFt8L._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 7.305,60",
@@ -56,27 +64,19 @@
     "link": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=fluxia-20"
   },
   {
-    "id": "AMZ1779270022659021",
+    "id": "AMZ1779354624191027",
     "nome": "Samsung Smart TV 65\" Crystal UHD 4K U8100F 2025",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/81QsB0GMcyL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 7.065,76",
-    "precoDesconto": "R$ 3.718,82",
+    "precoOriginal": "R$ 5.888,10",
+    "precoDesconto": "R$ 3.099,00",
     "link": "https://www.amazon.com.br/dp/B0F5X6L24G?tag=fluxia-20"
   },
   {
-    "id": "AMZ1779268855580021",
-    "nome": "Tablet Samsung Galaxy Tab S10 FE, Cinza, 128GB, 8GB RAM, Tela Imersiva de 10.9\" 90Hz, Camera Traseira de 13MP, Câmera Frontal de 12MP Ultra Wide, Wifi 6, IP68, Android 15",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51m661VQOKL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 5.595,50",
-    "precoDesconto": "R$ 2.945,00",
-    "link": "https://www.amazon.com.br/dp/B0F3LTWYS5?tag=fluxia-20"
-  },
-  {
-    "id": "60OYPFbw40",
-    "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf41ipxjrwg70d",
+    "id": "1gFcR2y794",
+    "nome": "Fonte Turbo 20w Para IPhone Carregador Turbo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lysby5r3jpkx63",
     "precoOriginal": 0,
-    "precoDesconto": 34.99,
-    "link": "https://s.shopee.com.br/60OYPFbw40"
+    "precoDesconto": 19.8,
+    "link": "https://s.shopee.com.br/1gFcR2y794"
   }
 ]
