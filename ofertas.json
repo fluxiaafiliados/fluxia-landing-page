@@ -1,6 +1,22 @@
 [
   {
-    "id": "ML1781683833813029",
+    "id": "ML1781772617438053",
+    "nome": "Bicicleta Ergométrica Spinning Magnética Silenciosa Vs1 Vollo Cor Preto",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_763281-MLA91345492976_092025-AB.webp",
+    "precoOriginal": 3799,
+    "precoDesconto": 999.9,
+    "link": "https://meli.la/1HMix4y"
+  },
+  {
+    "id": "ML1781772017602003",
+    "nome": "Smart Tv Tcl 55 Polegadas Qled 4k P8k Wifi Bluetooth Google Tv 144hz Hdr10+ Dolby Atmos Vision 55p8k",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_742774-MLA113356811449_062026-AB.webp",
+    "precoOriginal": 4949,
+    "precoDesconto": 2899,
+    "link": "https://meli.la/2f4AzAV"
+  },
+  {
+    "id": "ML1781770246809029",
     "nome": "Ar-condicionado Split Samsung Inverter Windfree Ai 12.000 Btus Frio Sem Vento Ar12dyfaawknaz Branco 220v",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848672-MLA99995662549_112025-AB.webp",
     "precoOriginal": 4529,
@@ -8,75 +24,59 @@
     "link": "https://meli.la/2HYTEnN"
   },
   {
-    "id": "ML1781685619324019",
-    "nome": "Smart Tv Full Hd Led 43 Samsung Lh43betmlggxzd Wifi Tizen",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_846296-MLA99536194150_122025-AB.webp",
-    "precoOriginal": 3200,
-    "precoDesconto": 1602,
-    "link": "https://meli.la/1DFucJ4"
-  },
-  {
-    "id": "ML1781685619323000",
-    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
-    "precoOriginal": 3999,
-    "precoDesconto": 2299,
-    "link": "https://meli.la/1MzTNQ2"
-  },
-  {
-    "id": "9pc17hQxbB",
+    "id": "6L2AYA5KOh",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/9pc17hQxbB"
+    "link": "https://s.shopee.com.br/6L2AYA5KOh"
   },
   {
-    "id": "2qSGmhqZtL",
+    "id": "30liZu7qOl",
     "nome": "Máquina De Cortar Cabelo Para Barba Masculina Designer Elétrico Profissional Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mm8ne7wxt91c83",
     "precoOriginal": 0,
     "precoDesconto": 20.98,
-    "link": "https://s.shopee.com.br/2qSGmhqZtL"
+    "link": "https://s.shopee.com.br/30liZu7qOl"
   },
   {
-    "id": "AUrgJrOEVq",
+    "id": "AUrjVdx8nm",
     "nome": "Tênis Feminino Casual Blogueira Confortável e Estiloso Envio Rápido",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-ml81dad8dqmf31",
     "precoOriginal": 0,
     "precoDesconto": 49.35,
-    "link": "https://s.shopee.com.br/AUrgJrOEVq"
+    "link": "https://s.shopee.com.br/AUrjVdx8nm"
   },
   {
-    "id": "AMZ1781684458743019",
+    "id": "AMZ1781770857175025",
     "nome": "Apple iPhone 16 (128 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL300_SR300,200_.jpg",
-    "precoOriginal": "R$ 10.429,33",
-    "precoDesconto": "R$ 5.489,12",
+    "precoOriginal": "R$ 10.764,55",
+    "precoDesconto": "R$ 5.665,55",
     "link": "https://www.amazon.com.br/dp/B0DJFTJ6LX?tag=fluxia-20"
   },
   {
-    "id": "AMZ1781685011501006",
-    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 8.738,10",
-    "precoDesconto": "R$ 4.599,00",
-    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
+    "id": "AMZ1781770254774028",
+    "nome": "Notebook Dell Inspiron 15 3530, 15.6\" Full HD (1920x1080), Intel Core i5‑1334U, 8 GB RAM, 512 GB SSD, Windows 11 Home, Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51LAU1+ACrL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 8358.1,
+    "precoDesconto": 4399,
+    "link": "https://www.amazon.com.br/dp/B0FHCHBRGF?tag=fluxia-20"
   },
   {
-    "id": "AMZ1781685011501002",
-    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 8.168,10",
-    "precoDesconto": "R$ 4.299,00",
-    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
+    "id": "AMZ1781770857175028",
+    "nome": "Apple iPhone 16e de 128 GB — Branco",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41Zguc9CziL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": "R$ 7.809,00",
+    "precoDesconto": "R$ 4.110,00",
+    "link": "https://www.amazon.com.br/dp/B0DXR6MKR8?tag=fluxia-20"
   },
   {
-    "id": "9pc17hQxbB",
+    "id": "6L2AYA5KOh",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/9pc17hQxbB"
+    "link": "https://s.shopee.com.br/6L2AYA5KOh"
   }
 ]
