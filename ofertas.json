@@ -1,27 +1,27 @@
 [
   {
-    "id": "ML1782547216694043",
-    "nome": "Projetor 2k Verdade Dlp 800ansi Googletv Nfc Bateria Usb-c Preto 127/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_766644-MLB110824273085_042026-AB.webp",
-    "precoOriginal": 6999,
-    "precoDesconto": 2792,
-    "link": "https://meli.la/2ftktCd"
-  },
-  {
-    "id": "ML1782549617668006",
+    "id": "ML1782636018463008",
     "nome": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
     "precoOriginal": 5000,
-    "precoDesconto": 1961,
+    "precoDesconto": 2179,
     "link": "https://meli.la/1nuHbRb"
   },
   {
-    "id": "ML1782549617669012",
+    "id": "ML1782636018464013",
     "nome": "Smart Tv LG Uhd Ai Ua85 50 Polegadas Hdr10 Pro Processador 7 Ai Ger 8 Webos 25",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795812-MLA107587476677_022026-AB.webp",
     "precoOriginal": 3699,
     "precoDesconto": 2082,
     "link": "https://meli.la/2gmLTNh"
+  },
+  {
+    "id": "ML1782636018463003",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2289,
+    "link": "https://meli.la/1MzTNQ2"
   },
   {
     "id": "60PYVYwXfY",
@@ -32,23 +32,23 @@
     "link": "https://s.shopee.com.br/60PYVYwXfY"
   },
   {
-    "id": "BRlYVZpDv",
+    "id": "6ffGtLgJjp",
     "nome": "10 Peças 9Mm Gancho Adesivo Parede Transparente Multifuncional Autocolante",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj87fqk4fw1u2b",
     "precoOriginal": 0,
     "precoDesconto": 12.99,
-    "link": "https://s.shopee.com.br/BRlYVZpDv"
+    "link": "https://s.shopee.com.br/6ffGtLgJjp"
   },
   {
-    "id": "110sYF9wMU",
+    "id": "903BfqoBKl",
     "nome": "Máquina De Cortar Cabelo Para Barba Masculina Designer Elétrico Profissional Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mm8ne7wxt91c83",
     "precoOriginal": 0,
     "precoDesconto": 20.98,
-    "link": "https://s.shopee.com.br/110sYF9wMU"
+    "link": "https://s.shopee.com.br/903BfqoBKl"
   },
   {
-    "id": "AMZ1782548458640015",
+    "id": "AMZ1782634857772018",
     "nome": "Apple iPhone 17 de 256 GB — Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.996,60",
@@ -56,7 +56,7 @@
     "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
   },
   {
-    "id": "AMZ1782548458640023",
+    "id": "AMZ1782634857772025",
     "nome": "Apple iPhone 15 (128 GB) — Azul",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41+jLq6yJKL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 8.442,00",
@@ -64,12 +64,12 @@
     "link": "https://www.amazon.com.br/dp/B0CP6CR795?tag=fluxia-20"
   },
   {
-    "id": "AMZ1782549636146026",
-    "nome": "Amazon Kindle Scribe Colorsoft 64GB - Tela colorida de 11\" semelhante ao papel, com luz frontal — Fino, leve, potente — Escreva em cadernos, documentos e livros - Grafite",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/710XDZiamdL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 7.408,10",
-    "precoDesconto": "R$ 3.899,00",
-    "link": "https://www.amazon.com.br/dp/B0FC1XTK8P?tag=fluxia-20"
+    "id": "AMZ1782634242800028",
+    "nome": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Cinza",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51UFm7dGUuL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": 4369.94,
+    "precoDesconto": 2299.97,
+    "link": "https://www.amazon.com.br/dp/B0FMFRFNWG?tag=fluxia-20"
   },
   {
     "id": "60PYVYwXfY",
