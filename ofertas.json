@@ -1,54 +1,62 @@
 [
   {
-    "id": "ML1783501226378117",
-    "nome": "Viveiro Veneza Gaiola P/ Aves Pássaro Papagaio American Pets Cor Preto",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_959629-MLA110467335179_042026-AB.webp",
-    "precoOriginal": 3500,
-    "precoDesconto": 350,
-    "link": "https://meli.la/2M8WGhr"
+    "id": "ML1783587017523046",
+    "nome": "Elíptico + Bicicleta Magnética 2 Em 1 Até 120kg 8 Cargas Vollo Cinza",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_800258-MLA98149446549_112025-AB.webp",
+    "precoOriginal": 4499,
+    "precoDesconto": 2219,
+    "link": "https://meli.la/19NBRqj"
   },
   {
-    "id": "ML1783500017612012",
-    "nome": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
-    "precoOriginal": 4139,
-    "precoDesconto": 1938,
-    "link": "https://meli.la/1nuHbRb"
+    "id": "ML1783586418194000",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2389,
+    "link": "https://meli.la/1MzTNQ2"
   },
   {
-    "id": "ML1783498233204009",
-    "nome": "Ar-condicionado Split Samsung Inverter Windfree Ai 12.000 Btus Frio Sem Vento Ar12dyfaawknaz Branco 220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848672-MLA99995662549_112025-AB.webp",
-    "precoOriginal": 4529,
-    "precoDesconto": 1889,
-    "link": "https://meli.la/2HYTEnN"
+    "id": "ML1783584631048037",
+    "nome": "Máquina De Lavar 13kg Electrolux Cesto Inox, Jet&clean Led13 Cor Branco 127v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_631966-MLA99928427309_112025-AB.webp",
+    "precoOriginal": 1849,
+    "precoDesconto": 184.9,
+    "link": "https://meli.la/16y1xrv"
   },
   {
-    "id": "9AMrpBNhtk",
+    "id": "7fY5dJcaTG",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/9AMrpBNhtk"
+    "link": "https://s.shopee.com.br/7fY5dJcaTG"
   },
   {
-    "id": "3g1vGjmjDT",
+    "id": "20tisZ2JQm",
     "nome": "10 Peças 9Mm Gancho Adesivo Parede Transparente Multifuncional Autocolante",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj87fqk4fw1u2b",
     "precoOriginal": 0,
     "precoDesconto": 12.99,
-    "link": "https://s.shopee.com.br/3g1vGjmjDT"
+    "link": "https://s.shopee.com.br/20tisZ2JQm"
   },
   {
-    "id": "18bJJcEGB",
+    "id": "AUsH0OHhCt",
     "nome": "Máquina De Cortar Cabelo Para Barba Masculina Designer Elétrico Profissional Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mm8ne7wxt91c83",
     "precoOriginal": 0,
     "precoDesconto": 20.98,
-    "link": "https://s.shopee.com.br/18bJJcEGB"
+    "link": "https://s.shopee.com.br/AUsH0OHhCt"
   },
   {
-    "id": "AMZ1783498860534007",
+    "id": "AMZ1783585265678012",
+    "nome": "Apple iPhone 17 de 256 GB — Preto",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 11.820,11",
+    "precoDesconto": "R$ 6.221,11",
+    "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1783585265678008",
     "nome": "Apple iPhone 16 (512 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.398,10",
@@ -56,27 +64,19 @@
     "link": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=fluxia-20"
   },
   {
-    "id": "AMZ1783498860534013",
-    "nome": "Apple iPhone 17 de 256 GB — Lavanda",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 11.397,89",
-    "precoDesconto": "R$ 5.998,89",
-    "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1783498860534018",
+    "id": "AMZ1783585265678017",
     "nome": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uS5ZSX9yL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 10.524,10",
-    "precoDesconto": "R$ 5.539,00",
+    "precoOriginal": "R$ 10.975,67",
+    "precoDesconto": "R$ 5.776,67",
     "link": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=fluxia-20"
   },
   {
-    "id": "9AMrpBNhtk",
+    "id": "7fY5dJcaTG",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/9AMrpBNhtk"
+    "link": "https://s.shopee.com.br/7fY5dJcaTG"
   }
 ]
