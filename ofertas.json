@@ -1,27 +1,27 @@
 [
   {
-    "id": "ML1783757432567031",
-    "nome": "Máquina De Lavar Brastemp 13kg Branca Com Ciclo Tira Manchas Branco 127v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_896390-MLA107974605505_032026-AB.webp",
-    "precoOriginal": 1789,
-    "precoDesconto": 179,
-    "link": "https://meli.la/1goWjMa"
+    "id": "ML1783843833017038",
+    "nome": "Geladeira Brastemp Frost Free Inverse 500 Litros Inox - Bre66ak 127/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738389-MLA107202927243_022026-AB.webp",
+    "precoOriginal": 4170,
+    "precoDesconto": 417,
+    "link": "https://meli.la/21Wjkaq"
   },
   {
-    "id": "ML1783757432566016",
-    "nome": "Aspirador De Pó E Água Soprador Gtw 55 3 Em 1 Wap 50-60hz Amarelo/preto 127v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_676792-MLA99985752491_112025-AB.webp",
-    "precoOriginal": 1399,
-    "precoDesconto": 135.9,
-    "link": "https://meli.la/2g9gJBY"
+    "id": "ML1783845618455005",
+    "nome": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-AB.webp",
+    "precoOriginal": 3799,
+    "precoDesconto": 1880,
+    "link": "https://meli.la/2UyGPNh"
   },
   {
-    "id": "ML1783758623197006",
-    "nome": "Berço Portatil Moises Balanço Mosquiteiro Infantil Pipdip Cinza",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705237-MLB107817100752_032026-AB.webp",
-    "precoOriginal": 1499,
-    "precoDesconto": 548.99,
-    "link": "https://meli.la/1NZxB4z"
+    "id": "ML1783845618455000",
+    "nome": "Smart Tv 4k 50 LG Qned73 Portal De Games Processador Ai 7",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927673-MLB109118004775_032026-AB.webp",
+    "precoOriginal": 4099,
+    "precoDesconto": 2499,
+    "link": "https://meli.la/1sjvZ2v"
   },
   {
     "id": "2g9SrurYiS",
@@ -48,15 +48,7 @@
     "link": "https://s.shopee.com.br/7KvIQMHADd"
   },
   {
-    "id": "AMZ1783758057296017",
-    "nome": "Apple iPhone 17 de 256 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 11.797,10",
-    "precoDesconto": "R$ 6.209,00",
-    "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1783758057296014",
+    "id": "AMZ1783844457036017",
     "nome": "Apple iPhone 16 (512 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.398,10",
@@ -64,12 +56,20 @@
     "link": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=fluxia-20"
   },
   {
-    "id": "AMZ1783758057296024",
-    "nome": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uS5ZSX9yL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 10.975,67",
-    "precoDesconto": "R$ 5.776,67",
-    "link": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=fluxia-20"
+    "id": "AMZ1783845011230008",
+    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 8.738,10",
+    "precoDesconto": "R$ 4.599,00",
+    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1783845011230017",
+    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 8.168,10",
+    "precoDesconto": "R$ 4.299,00",
+    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
   },
   {
     "id": "2g9SrurYiS",
