@@ -1,14 +1,6 @@
 [
   {
-    "id": "ML1783843833017038",
-    "nome": "Geladeira Brastemp Frost Free Inverse 500 Litros Inox - Bre66ak 127/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_738389-MLA107202927243_022026-AB.webp",
-    "precoOriginal": 4170,
-    "precoDesconto": 417,
-    "link": "https://meli.la/21Wjkaq"
-  },
-  {
-    "id": "ML1783845618455005",
+    "id": "ML1783932017805015",
     "nome": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-AB.webp",
     "precoOriginal": 3799,
@@ -16,7 +8,7 @@
     "link": "https://meli.la/2UyGPNh"
   },
   {
-    "id": "ML1783845618455000",
+    "id": "ML1783932017804000",
     "nome": "Smart Tv 4k 50 LG Qned73 Portal De Games Processador Ai 7",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927673-MLB109118004775_032026-AB.webp",
     "precoOriginal": 4099,
@@ -24,31 +16,47 @@
     "link": "https://meli.la/1sjvZ2v"
   },
   {
-    "id": "2g9SrurYiS",
+    "id": "ML1783932017805001",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2389,
+    "link": "https://meli.la/1MzTNQ2"
+  },
+  {
+    "id": "1qaP49ueC1",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/2g9SrurYiS"
+    "link": "https://s.shopee.com.br/1qaP49ueC1"
   },
   {
-    "id": "3B5jSUc8k0",
-    "nome": "10 Peças 9Mm Gancho Adesivo Parede Transparente Multifuncional Autocolante",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj87fqk4fw1u2b",
+    "id": "9pcganoliS",
+    "nome": "Senbenbao X55 Fones De Ouvido TWS Sleep Fone Sem Fio Bluetooth Display Led Hifi Estéreo Cancelamento De Ruído Esportivo ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxs-mcanyyol3y009d",
     "precoOriginal": 0,
-    "precoDesconto": 12.99,
-    "link": "https://s.shopee.com.br/3B5jSUc8k0"
+    "precoDesconto": 12.51,
+    "link": "https://s.shopee.com.br/9pcganoliS"
   },
   {
-    "id": "7KvIQMHADd",
-    "nome": "Máquina De Cortar Cabelo Para Barba Masculina Designer Elétrico Profissional Premium",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mm8ne7wxt91c83",
+    "id": "BSB4xsC2N",
+    "nome": "Máquina de Cortar Cabelo Elétrica Profissional com Visor Digital – Essencial para Homens Estilosos, Uso Doméstico e Barb",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mp651wmbdp8ja0",
     "precoOriginal": 0,
-    "precoDesconto": 20.98,
-    "link": "https://s.shopee.com.br/7KvIQMHADd"
+    "precoDesconto": 33.88,
+    "link": "https://s.shopee.com.br/BSB4xsC2N"
   },
   {
-    "id": "AMZ1783844457036017",
+    "id": "AMZ1783930858858017",
+    "nome": "Apple iPhone 17 de 256 GB — Lavanda",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 11.820,11",
+    "precoDesconto": "R$ 6.221,11",
+    "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1783930858858023",
     "nome": "Apple iPhone 16 (512 GB) – Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41uUYcqfLxL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.398,10",
@@ -56,7 +64,7 @@
     "link": "https://www.amazon.com.br/dp/B0DJFS7GXV?tag=fluxia-20"
   },
   {
-    "id": "AMZ1783845011230008",
+    "id": "AMZ1783931412401008",
     "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 8.738,10",
@@ -64,19 +72,11 @@
     "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
   },
   {
-    "id": "AMZ1783845011230017",
-    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 8.168,10",
-    "precoDesconto": "R$ 4.299,00",
-    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
-  },
-  {
-    "id": "2g9SrurYiS",
+    "id": "1qaP49ueC1",
     "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
     "precoOriginal": 0,
     "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/2g9SrurYiS"
+    "link": "https://s.shopee.com.br/1qaP49ueC1"
   }
 ]
