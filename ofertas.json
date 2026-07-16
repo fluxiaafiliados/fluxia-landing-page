@@ -1,14 +1,6 @@
 [
   {
-    "id": "ML1784019017422039",
-    "nome": "Bicicleta Aro 29 Caloi Aspen Freio Hidraulico 24 Velocidades Cor Azul Tamanho Do Quadro 17",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_860221-MLA100024472619_122025-AB.webp",
-    "precoOriginal": 2390,
-    "precoDesconto": 239,
-    "link": "https://meli.la/2bAXsF3"
-  },
-  {
-    "id": "ML1784018420058000",
+    "id": "ML1784104817377000",
     "nome": "Smart Tv 4k 50 LG Qned73 Portal De Games Processador Ai 7",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927673-MLB109118004775_032026-AB.webp",
     "precoOriginal": 4099,
@@ -16,7 +8,7 @@
     "link": "https://meli.la/1sjvZ2v"
   },
   {
-    "id": "ML1784018420058001",
+    "id": "ML1784104817378001",
     "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
     "precoOriginal": 3999,
@@ -24,12 +16,20 @@
     "link": "https://meli.la/1MzTNQ2"
   },
   {
-    "id": "50XSQmLcCT",
+    "id": "ML1784105419329020",
+    "nome": "Gazebo De Camping Base Arpenaz 6 Pessoas Cor Verde",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_731400-MLA96402048647_102025-AB.webp",
+    "precoOriginal": 2123,
+    "precoDesconto": 212.34,
+    "link": "https://meli.la/1i6F9yU"
+  },
+  {
+    "id": "8fQmOPT8DM",
     "nome": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397",
     "precoOriginal": 0,
     "precoDesconto": 39.8,
-    "link": "https://s.shopee.com.br/50XSQmLcCT"
+    "link": "https://s.shopee.com.br/8fQmOPT8DM"
   },
   {
     "id": "9pcganoliS",
@@ -40,43 +40,43 @@
     "link": "https://s.shopee.com.br/9pcganoliS"
   },
   {
-    "id": "BSB4xsC2N",
+    "id": "8KnvzkoAqn",
     "nome": "Máquina de Cortar Cabelo Elétrica Profissional com Visor Digital – Essencial para Homens Estilosos, Uso Doméstico e Barb",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mp651wmbdp8ja0",
     "precoOriginal": 0,
     "precoDesconto": 33.88,
-    "link": "https://s.shopee.com.br/BSB4xsC2N"
+    "link": "https://s.shopee.com.br/8KnvzkoAqn"
   },
   {
-    "id": "AMZ1784017811672025",
+    "id": "AMZ1784104214080011",
     "nome": "Console PlayStation®5 Pro",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL300_SR300,200_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 13.298,10",
     "precoDesconto": "R$ 6.999,00",
     "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "AMZ1784017257859023",
+    "id": "AMZ1784103657274025",
     "nome": "Apple iPhone 17 de 256 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL300_SR300,200_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.820,11",
     "precoDesconto": "R$ 6.221,11",
     "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
   },
   {
-    "id": "AMZ1784019063776014",
-    "nome": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 220V",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41F+xukODBL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 8.998,00",
-    "precoDesconto": "R$ 4.735,79",
-    "link": "https://www.amazon.com.br/dp/B0B61WJRY5?tag=fluxia-20"
+    "id": "AMZ1784104214080006",
+    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 8.667,80",
+    "precoDesconto": "R$ 4.562,00",
+    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
   },
   {
-    "id": "50XSQmLcCT",
+    "id": "8fQmOPT8DM",
     "nome": "2026 T800 Ultra 3 MAX Mais Recente Smartwatch Relógio Inteligente NFC Série 10 2.19Polegadas Sem Fio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq4f2lhz40397",
     "precoOriginal": 0,
     "precoDesconto": 39.8,
-    "link": "https://s.shopee.com.br/50XSQmLcCT"
+    "link": "https://s.shopee.com.br/8fQmOPT8DM"
   }
 ]
