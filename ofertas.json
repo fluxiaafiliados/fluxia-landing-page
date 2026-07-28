@@ -1,6 +1,14 @@
 [
   {
-    "id": "ML1785055217695017",
+    "id": "ML1785141617404016",
+    "nome": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
+    "precoOriginal": 5000,
+    "precoDesconto": 2179,
+    "link": "https://meli.la/1nuHbRb"
+  },
+  {
+    "id": "ML1785141617403000",
     "nome": "Smart Tv 4k 86 LG Qned73 Portal De Games Processador Ai 7 Ger8 4k Super Upscaling Google Cast Integrado Controle Ai Magic Webos 25 Modo Esportes Alerta De Esportes",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_608335-MLA107763044190_032026-AB.webp",
     "precoOriginal": 9449,
@@ -8,47 +16,39 @@
     "link": "https://meli.la/2LyFrqA"
   },
   {
-    "id": "ML1785055217695000",
+    "id": "ML1785141617405036",
     "nome": "Samsung Vision Ai Tv 50 Qled Ultra 4k Q7f 2025",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758712-MLA109595558676_042026-AB.webp",
     "precoOriginal": 3919,
-    "precoDesconto": 2278,
+    "precoDesconto": 2560,
     "link": "https://meli.la/1uPJNQ9"
   },
   {
-    "id": "ML1785055217695001",
-    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
-    "precoOriginal": 3999,
-    "precoDesconto": 2499,
-    "link": "https://meli.la/1MzTNQ2"
-  },
-  {
-    "id": "5ArBlWeRGH",
-    "nome": "KIT 10/20/30 Gancho Adesivo/ Parede Multifuncional Autocolante Casa Cozinha Quarto Banheiro Organizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mngyn0b5fk0076",
+    "id": "9ANM7g0AjZ",
+    "nome": "Protetor Solar Facial PS-01 FPS 60 Principia",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo3qlzh3peb9",
     "precoOriginal": 0,
-    "precoDesconto": 13.77,
-    "link": "https://s.shopee.com.br/5ArBlWeRGH"
+    "precoDesconto": 49,
+    "link": "https://s.shopee.com.br/9ANM7g0AjZ"
   },
   {
-    "id": "LluQ4w1Ho",
-    "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
+    "id": "1gHJb1ORVo",
+    "nome": "Principia Kit Duo c/ 2 Protetores Solares Faciais - PS-01 FPS 60",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mm1wtgtq87408a",
     "precoOriginal": 0,
-    "precoDesconto": 21,
-    "link": "https://s.shopee.com.br/LluQ4w1Ho"
+    "precoDesconto": 61.59,
+    "link": "https://s.shopee.com.br/1gHJb1ORVo"
   },
   {
-    "id": "9pd1K2opB6",
-    "nome": "Creatina Ultra Pote 300g - FTW",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
+    "id": "3VixmOHSn9",
+    "nome": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mqbxyppmgzya6f",
     "precoOriginal": 0,
-    "precoDesconto": 29.9,
-    "link": "https://s.shopee.com.br/9pd1K2opB6"
+    "precoDesconto": 69.23,
+    "link": "https://s.shopee.com.br/3VixmOHSn9"
   },
   {
-    "id": "AMZ1785054612683014",
+    "id": "AMZ1785141011623017",
     "nome": "PlayStation®5 Pro",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 13.488,10",
@@ -56,7 +56,7 @@
     "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "AMZ1785054058659020",
+    "id": "AMZ1785140458942019",
     "nome": "Apple iPhone 17 de 256 GB — Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.588,10",
@@ -64,7 +64,7 @@
     "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
   },
   {
-    "id": "AMZ1785054612683012",
+    "id": "AMZ1785141011623012",
     "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 9.498,10",
@@ -72,11 +72,11 @@
     "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
   },
   {
-    "id": "5ArBlWeRGH",
-    "nome": "KIT 10/20/30 Gancho Adesivo/ Parede Multifuncional Autocolante Casa Cozinha Quarto Banheiro Organizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mngyn0b5fk0076",
+    "id": "9ANM7g0AjZ",
+    "nome": "Protetor Solar Facial PS-01 FPS 60 Principia",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibo3qlzh3peb9",
     "precoOriginal": 0,
-    "precoDesconto": 13.77,
-    "link": "https://s.shopee.com.br/5ArBlWeRGH"
+    "precoDesconto": 49,
+    "link": "https://s.shopee.com.br/9ANM7g0AjZ"
   }
 ]
