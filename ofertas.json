@@ -1,30 +1,54 @@
 [
   {
-    "id": "ML1785314418706019",
-    "nome": "Smart Tv LG Uhd Ai Ua75 55 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739445-MLA106908065058_022026-AB.webp",
-    "precoOriginal": 5499,
-    "precoDesconto": 549.9,
-    "link": "https://meli.la/2bpSrND"
+    "id": "ML1785400818482001",
+    "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_668507-MLA108744768802_032026-AB.webp",
+    "precoOriginal": 3999,
+    "precoDesconto": 2599,
+    "link": "https://meli.la/1MzTNQ2"
   },
   {
-    "id": "ML1785314418705009",
-    "nome": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
-    "precoOriginal": 4139,
-    "precoDesconto": 1999,
-    "link": "https://meli.la/1nuHbRb"
+    "id": "ML1785400818483006",
+    "nome": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753324-MLA108743670040_032026-AB.webp",
+    "precoOriginal": 3499,
+    "precoDesconto": 2215,
+    "link": "https://meli.la/1c9Je19"
   },
   {
-    "id": "ML1785312631826037",
-    "nome": "Cooktop De Indução 5 Bocas Dako Select Com 2 Zonas Flexíveis E 7200w Com Mesa Em Vidro Cerâmico 220 V Preto 220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_811032-MLA99476921878_112025-AB.webp",
-    "precoOriginal": 4199,
-    "precoDesconto": 2051,
-    "link": "https://meli.la/2Jb3iQ7"
+    "id": "ML1785400818483004",
+    "nome": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_603690-MLA93305557455_092025-AB.webp",
+    "precoOriginal": 3099,
+    "precoDesconto": 1959,
+    "link": "https://meli.la/2bGwHTp"
   },
   {
-    "id": "AMZ1785313811223027",
+    "id": "4VbbMBnWD3",
+    "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
+    "precoOriginal": 0,
+    "precoDesconto": 21,
+    "link": "https://s.shopee.com.br/4VbbMBnWD3"
+  },
+  {
+    "id": "7VFCvNFaIy",
+    "nome": "KIT 10/20/30 Gancho Adesivo/ Parede Multifuncional Autocolante Casa Cozinha Quarto Banheiro Organizado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mngyn0b5fk0076",
+    "precoOriginal": 0,
+    "precoDesconto": 13.77,
+    "link": "https://s.shopee.com.br/7VFCvNFaIy"
+  },
+  {
+    "id": "1gHPyvUr5O",
+    "nome": "Senbenbao X55 Fones De Ouvido TWS Sleep Fone Sem Fio Bluetooth Display Led Hifi Estéreo Cancelamento De Ruído Esportivo ",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a1-mr8h8oeqo4r057",
+    "precoOriginal": 0,
+    "precoDesconto": 12.51,
+    "link": "https://s.shopee.com.br/1gHPyvUr5O"
+  },
+  {
+    "id": "AMZ1785400211582028",
     "nome": "PlayStation®5 Pro",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 13.486,20",
@@ -32,19 +56,27 @@
     "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "AMZ1785315063572026",
-    "nome": "Geladeira Electrolux Frost Free Inverter 590L AutoSense 3 Portas Cor Inox Look (IM8S) - 127V",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/416IUMGUCyL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 12.918,10",
-    "precoDesconto": "R$ 6.799,00",
-    "link": "https://www.amazon.com.br/dp/B0B3NM92NN?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1785313256832018",
+    "id": "AMZ1785399657163009",
     "nome": "Apple iPhone 17 de 256 GB — Preto",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 11.186,78",
     "precoDesconto": "R$ 5.887,78",
     "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1785400211582021",
+    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": "R$ 9.498,10",
+    "precoDesconto": "R$ 4.999,00",
+    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
+  },
+  {
+    "id": "4VbbMBnWD3",
+    "nome": "( ORIGINAL ) Cabo Carregador Turbo Lightning Para iPhone iPad 7 8 X Xr 11 12 13 14 Pro Max",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260v-mj4eil3jwr2d7d",
+    "precoOriginal": 0,
+    "precoDesconto": 21,
+    "link": "https://s.shopee.com.br/4VbbMBnWD3"
   }
 ]
