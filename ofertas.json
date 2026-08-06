@@ -1,14 +1,14 @@
 [
   {
-    "id": "ML1785832821779003",
+    "id": "ML1785919217739003",
     "nome": "Smart Tv Tcl 85 Polegadas Qled 4k P7k Wifi Bluetooth Google Tv Hdr10+ Dolby Atmos Dolby Vision 85p7k",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839737-MLA113356249335_062026-AB.webp",
-    "precoOriginal": 7199,
-    "precoDesconto": 719.9,
+    "precoOriginal": 7599,
+    "precoDesconto": 759.9,
     "link": "https://meli.la/2jDfyTY"
   },
   {
-    "id": "ML1785832821779011",
+    "id": "ML1785919217739011",
     "nome": "Smart Tv Tcl 65 Polegadas Qled Mini Led 4k C6k Wifi Bluetooth Google Tv 4 Hdmi 144hz Hdr10+ 65c6k",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748973-MLA112209898216_062026-AB.webp",
     "precoOriginal": 4799,
@@ -16,7 +16,7 @@
     "link": "https://meli.la/1zoypgC"
   },
   {
-    "id": "ML1785832821779008",
+    "id": "ML1785919217739008",
     "nome": "Smart Tv LG Uhd Ai Ua75 65 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_966485-MLA106907952364_022026-AB.webp",
     "precoOriginal": 4999,
@@ -24,27 +24,27 @@
     "link": "https://meli.la/18xH8qo"
   },
   {
-    "id": "AMZ1785831656488006",
+    "id": "AMZ1785918056240011",
     "nome": "Apple iPhone 17 de 256 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 11.186,78",
     "precoDesconto": "R$ 5.887,78",
     "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
   },
   {
-    "id": "AMZ1785832215908021",
-    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71PeCknZMRL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 9.593,10",
-    "precoDesconto": "R$ 5.049,00",
-    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1785832215908004",
+    "id": "AMZ1785918612908008",
     "nome": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71WCygaQDAL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 8.358,10",
     "precoDesconto": "R$ 4.399,00",
     "link": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=fluxia-20"
+  },
+  {
+    "id": "AMZ1785918612908007",
+    "nome": "Nintendo, Console, Nintendo Switch 2, Nacional, Portátil e Doméstico, Bateria de até 9 Horas, Inclui Joy-Con com Suporte e Alças, 1 ano de Garantia - Modelo Nacional de Tomada",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/61oPb9El-SL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 7.446,10",
+    "precoDesconto": "R$ 3.919,00",
+    "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=fluxia-20"
   }
 ]
