@@ -1,6 +1,6 @@
 [
   {
-    "id": "ML1786005619017003",
+    "id": "ML1786092019530002",
     "nome": "Smart Tv Tcl 85 Polegadas Qled 4k P7k Wifi Bluetooth Google Tv Hdr10+ Dolby Atmos Dolby Vision 85p7k",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839737-MLA113356249335_062026-AB.webp",
     "precoOriginal": 7599,
@@ -8,7 +8,7 @@
     "link": "https://meli.la/2jDfyTY"
   },
   {
-    "id": "ML1786005619017011",
+    "id": "ML1786092019530010",
     "nome": "Smart Tv Tcl 65 Polegadas Qled Mini Led 4k C6k Wifi Bluetooth Google Tv 4 Hdmi 144hz Hdr10+ 65c6k",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748973-MLA112209898216_062026-AB.webp",
     "precoOriginal": 4799,
@@ -16,67 +16,35 @@
     "link": "https://meli.la/1zoypgC"
   },
   {
-    "id": "ML1786005619017018",
-    "nome": "Smart Tv U8600f Crystal Uhd 4k 50 2025 Preto Samsung",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_934005-MLA110473970565_042026-AB.webp",
-    "precoOriginal": 2349,
-    "precoDesconto": 234.9,
-    "link": "https://meli.la/1mRJxxH"
+    "id": "ML1786092019531018",
+    "nome": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802428-MLA113346695838_072026-AB.webp",
+    "precoOriginal": 3799,
+    "precoDesconto": 1859,
+    "link": "https://meli.la/2UyGPNh"
   },
   {
-    "id": "6Ak0VBe3Jt",
-    "nome": "KIT 10/20/30 Gancho Adesivo/ Parede Multifuncional Autocolante Casa Cozinha Quarto Banheiro Organizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mngyn0b5fk0076",
-    "precoOriginal": 0,
-    "precoDesconto": 13.77,
-    "link": "https://s.shopee.com.br/6Ak0VBe3Jt"
+    "id": "AMZ1786091409918014",
+    "nome": "PlayStation®5 Pro",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": "R$ 13.298,10",
+    "precoDesconto": "R$ 6.999,00",
+    "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "6L3QhWGkW8",
-    "nome": "1/2/5 Suporte De Parede Multifuncional Caixa De Armazenamento Casa Para Carregar Remoto Um Slot Organizadores para Casa",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mq7ewooa4074f0",
-    "precoOriginal": 0,
-    "precoDesconto": 8.99,
-    "link": "https://s.shopee.com.br/6L3QhWGkW8"
+    "id": "AMZ1786090859604007",
+    "nome": "Apple iPhone 17 de 256 GB — Lavanda",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 11.185,30",
+    "precoDesconto": "R$ 5.887,00",
+    "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=fluxia-20"
   },
   {
-    "id": "5fnjuBUmDZ",
-    "nome": "Creatina Ultra Pote 300g - FTW",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
-    "precoOriginal": 0,
-    "precoDesconto": 29.9,
-    "link": "https://s.shopee.com.br/5fnjuBUmDZ"
-  },
-  {
-    "id": "AMZ1786004458204011",
-    "nome": "Apple iPhone 17 de 256 GB — Preto",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41HPi5vrxSL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 11.186,78",
-    "precoDesconto": "R$ 5.887,78",
-    "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1786003841698019",
-    "nome": "Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71qOQOgOZUL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": 8548.1,
-    "precoDesconto": 4499,
-    "link": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=fluxia-20"
-  },
-  {
-    "id": "AMZ1786005635089021",
-    "nome": "TCL QLED SMART TV 65” 65P8K 4K UHD GOOGLE TV",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/81HYJKOOKaL._AC_UL600_SR600,400_.jpg",
-    "precoOriginal": "R$ 7.788,10",
-    "precoDesconto": "R$ 4.099,00",
-    "link": "https://www.amazon.com.br/dp/B0GH2L5MZL?tag=fluxia-20"
-  },
-  {
-    "id": "6Ak0VBe3Jt",
-    "nome": "KIT 10/20/30 Gancho Adesivo/ Parede Multifuncional Autocolante Casa Cozinha Quarto Banheiro Organizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mngyn0b5fk0076",
-    "precoOriginal": 0,
-    "precoDesconto": 13.77,
-    "link": "https://s.shopee.com.br/6Ak0VBe3Jt"
+    "id": "AMZ1786091409918018",
+    "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71IkUBtdDGL._AC_UL300_SR300,200_.jpg",
+    "precoOriginal": "R$ 9.308,10",
+    "precoDesconto": "R$ 4.899,00",
+    "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
   }
 ]
