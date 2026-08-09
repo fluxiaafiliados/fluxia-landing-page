@@ -1,30 +1,30 @@
 [
   {
-    "id": "ML1786092019530002",
-    "nome": "Smart Tv Tcl 85 Polegadas Qled 4k P7k Wifi Bluetooth Google Tv Hdr10+ Dolby Atmos Dolby Vision 85p7k",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839737-MLA113356249335_062026-AB.webp",
-    "precoOriginal": 7599,
-    "precoDesconto": 759.9,
-    "link": "https://meli.la/2jDfyTY"
+    "id": "ML1786178419639019",
+    "nome": "Smart Tv LG Uhd Ai Ua75 55 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_739445-MLA106908065058_022026-AB.webp",
+    "precoOriginal": 5499,
+    "precoDesconto": 2659,
+    "link": "https://meli.la/2bpSrND"
   },
   {
-    "id": "ML1786092019530010",
-    "nome": "Smart Tv Tcl 65 Polegadas Qled Mini Led 4k C6k Wifi Bluetooth Google Tv 4 Hdmi 144hz Hdr10+ 65c6k",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_748973-MLA112209898216_062026-AB.webp",
-    "precoOriginal": 4799,
-    "precoDesconto": 479.9,
-    "link": "https://meli.la/1zoypgC"
+    "id": "ML1786178419639010",
+    "nome": "Samsung Vision Ai Tv 50 Qled Ultra 4k Q7f 2025",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_758712-MLA109595558676_042026-AB.webp",
+    "precoOriginal": 3919,
+    "precoDesconto": 2507,
+    "link": "https://meli.la/1uPJNQ9"
   },
   {
-    "id": "ML1786092019531018",
-    "nome": "Smart Tv Roku Tv 50 7045 4k Uhd Aoc Bivolt",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802428-MLA113346695838_072026-AB.webp",
-    "precoOriginal": 3799,
-    "precoDesconto": 1859,
-    "link": "https://meli.la/2UyGPNh"
+    "id": "ML1786178419638006",
+    "nome": "Smart Tv 4k 50 LG Qned73 Portal De Games Processador Ai 7 Ger8 4k Super Upscaling Google Cast Integrado Controle Ai Magic Webos 25 Modo Esportes Alerta De Esportes",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_736986-MLA110508533913_042026-AB.webp",
+    "precoOriginal": 3399,
+    "precoDesconto": 2192,
+    "link": "https://meli.la/2Ab3UV8"
   },
   {
-    "id": "AMZ1786091409918014",
+    "id": "AMZ1786177812912025",
     "nome": "PlayStation®5 Pro",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 13.298,10",
@@ -32,15 +32,15 @@
     "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "AMZ1786090859604007",
+    "id": "AMZ1786177257476007",
     "nome": "Apple iPhone 17 de 256 GB — Lavanda",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL600_SR600,400_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OcUUYkgbL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 11.185,30",
     "precoDesconto": "R$ 5.887,00",
     "link": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=fluxia-20"
   },
   {
-    "id": "AMZ1786091409918018",
+    "id": "AMZ1786177812912010",
     "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
     "imagem": "https://images-na.ssl-images-amazon.com/images/I/71IkUBtdDGL._AC_UL300_SR300,200_.jpg",
     "precoOriginal": "R$ 9.308,10",
