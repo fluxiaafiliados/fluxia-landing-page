@@ -1,6 +1,14 @@
 [
   {
-    "id": "ML1787645433195015",
+    "id": "ML1787733619067000",
+    "nome": "Smart Tv 4k 50 LG Qned73 Portal De Games Processador Ai 7",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927673-MLB109118004775_032026-AB--smart-tv-4k-50--lg-qned73-portal-de-games-processador-ai-7.webp",
+    "precoOriginal": 4099,
+    "precoDesconto": 409.9,
+    "link": "https://meli.la/1sjvZ2v"
+  },
+  {
+    "id": "ML1787731837185007",
     "nome": "Geladeira Electrolux Frost Free 320l Duplex Inox Look (tf38s)",
     "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_648570-MLA99962182477_112025-AB.webp",
     "precoOriginal": 2499,
@@ -8,75 +16,35 @@
     "link": "https://meli.la/2m4njkW"
   },
   {
-    "id": "ML1787645433195006",
-    "nome": "Ar Condicionado Split Hw Tcl T-pro 2.0 Inverter 12k F 220v 220v",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_680526-MLB88768448812_082025-AB--ar-condicionado-split-hw-tcl-tpro-20-inverter-12k-f-220v.webp",
-    "precoOriginal": 3299,
-    "precoDesconto": 1999,
-    "link": "https://meli.la/2LGoMEf"
+    "id": "ML1787733619067016",
+    "nome": "Smart Tv LG 43 Full Hd, Processador A5 Ger6, Ai, Alexa E Webos 23 - 43lr6700psa",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741946-MLA107875422514_032026-AB.webp",
+    "precoOriginal": 3777,
+    "precoDesconto": 1582,
+    "link": "https://meli.la/2oK8yfQ"
   },
   {
-    "id": "ML1787647819855025",
-    "nome": "Bicicleta Aro 29 Alumínio Gts Freio A Disco 21v Ride Color Cor Água Tamanho Do Quadro 17",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821401-MLA95133409462_102025-AB.webp",
-    "precoOriginal": 1299,
-    "precoDesconto": 129.9,
-    "link": "https://meli.la/11jmm99"
-  },
-  {
-    "id": "1gI5RkvGk9",
-    "nome": "Creatina Monohidratada Pura Refil 1Kg Dark Lab - Creatine, Creatina 100% Pura",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms0du9lcp7ut42",
-    "precoOriginal": 0,
-    "precoDesconto": 69.9,
-    "link": "https://s.shopee.com.br/1gI5RkvGk9"
-  },
-  {
-    "id": "1qbVe3udPA",
-    "nome": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-ms0du9lcw8p1d3",
-    "precoOriginal": 0,
-    "precoDesconto": 39.9,
-    "link": "https://s.shopee.com.br/1qbVe3udPA"
-  },
-  {
-    "id": "20uvqMu04B",
-    "nome": "Creatina Ultra Pote 300g - FTW",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meourptjpj4194",
-    "precoOriginal": 0,
-    "precoDesconto": 29.9,
-    "link": "https://s.shopee.com.br/20uvqMu04B"
-  },
-  {
-    "id": "AMZ1787646616544016",
+    "id": "AMZ1787733012549014",
     "nome": "PlayStation®5 Pro",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL300_SR300,200_.jpg",
-    "precoOriginal": "R$ 13.963,01",
-    "precoDesconto": "R$ 7.348,95",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/51dfg52K-cL._AC_UL600_SR600,400_.jpg",
+    "precoOriginal": "R$ 13.264,85",
+    "precoDesconto": "R$ 6.981,50",
     "link": "https://www.amazon.com.br/dp/B0DH8J5YGH?tag=fluxia-20"
   },
   {
-    "id": "AMZ1787646056747018",
+    "id": "AMZ1787732458340019",
     "nome": "Apple iPhone 17 de 256 GB — Azul-névoa",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL300_SR300,200_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/41j+Sdw2FhL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 11.398,10",
     "precoDesconto": "R$ 5.999,00",
     "link": "https://www.amazon.com.br/dp/B0GQWF5JD1?tag=fluxia-20"
   },
   {
-    "id": "AMZ1787646616544020",
+    "id": "AMZ1787733012549019",
     "nome": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71IkUBtdDGL._AC_UL300_SR300,200_.jpg",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/I/71IkUBtdDGL._AC_UL600_SR600,400_.jpg",
     "precoOriginal": "R$ 9.689,79",
     "precoDesconto": "R$ 5.099,89",
     "link": "https://www.amazon.com.br/dp/B0F8R9NDXC?tag=fluxia-20"
-  },
-  {
-    "id": "1gI5RkvGk9",
-    "nome": "Creatina Monohidratada Pura Refil 1Kg Dark Lab - Creatine, Creatina 100% Pura",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-ms0du9lcp7ut42",
-    "precoOriginal": 0,
-    "precoDesconto": 69.9,
-    "link": "https://s.shopee.com.br/1gI5RkvGk9"
   }
 ]
